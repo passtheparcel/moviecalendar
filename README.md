@@ -1,6 +1,8 @@
 # Theatrical Release Calendar
 
-Rolling 3-4 month US theatrical release calendar, cross-checked across:
+Rolling 3-4 month US theatrical release calendar, cross-checked across
+(window currently Nov 25, 2026–Mar 2027; Thanksgiving week added Nov 23,
+2026 — the file name still says 2026-12, but the rows start Nov 25):
 - The Numbers release schedule (base: distributor + Wide / Limited)
 - FirstShowing.net release schedules (curated cross-check)
 - IMDb US calendar (for IMDb IDs)
