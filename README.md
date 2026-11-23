@@ -11,6 +11,13 @@ IFC, Black Bear, Briarcliff, Lionsgate, MUBI, GKIDS, Netflix, Roadside, etc).
 Wide expansions are ignored for now. Re-releases are excluded for now —
 see `re-releases-excluded-for-now.csv`.
 
+`MajorDistributor` is Y for studio and major mini-major distributors
+(Disney, Warner Bros., Universal, Paramount, Sony, 20th Century, Amazon MGM,
+Lionsgate, A24, Neon, Searchlight, Focus, Sony Pictures Classics, Bleecker
+Street, IFC, Black Bear, Briarcliff, MUBI, GKIDS, Netflix, Roadside, Angel
+Studios) and N for smaller / niche distributors (e.g. Vertical Entertainment,
+Magenta Light Studios, Cineverse, Ketchup, Viva Pictures, Prathyangira).
+
 For any title where sources disagree, the date in this file is the
 adjudicated date, with the reasoning in the Notes column.
 
