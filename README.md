@@ -1,9 +1,9 @@
 # Theatrical Release Calendar
 
 Rolling 3-4 month US theatrical release calendar, cross-checked across:
-- a Patreon calendar image (2026 only)
-- The Numbers release schedule
-- IMDb US calendar
+- The Numbers release schedule (base: distributor + Wide / Limited)
+- FirstShowing.net release schedules (curated cross-check)
+- IMDb US calendar (for IMDb IDs)
 
 Scope: wide-only, plus notable limited from major / mini-major distributors
 (A24, Neon, Searchlight, Focus, Sony Pictures Classics, Bleecker Street,
@@ -24,16 +24,15 @@ adjudicated date, with the reasoning in the Notes column.
 
 CSV:
 ```
-https://raw.githubusercontent.com/<user>/<repo>/main/master-calendar-2026-12-2027-03.csv
+https://raw.githubusercontent.com/passtheparcel/moviecalendar/main/master-calendar-2026-12-2027-03.csv
 ```
 
 JSON:
 ```
-https://raw.githubusercontent.com/<user>/<repo>/main/master-calendar-2026-12-2027-03.json
+https://raw.githubusercontent.com/passtheparcel/moviecalendar/main/master-calendar-2026-12-2027-03.json
 ```
 
-Replace `<user>` / `<repo>` with this repo's owner and name.
-No auth needed if the repo is public.
+No auth needed — the repo is public.
 
 ## Refresh
 

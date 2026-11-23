@@ -3,18 +3,18 @@
   "window": "2026-12-01 to 2027-03-31",
   "scope": "Wide-only plus notable limited from major/mini-major distributors; wide expansions ignored; re-releases excluded for now",
   "sources": [
-    "Patreon calendar image (2026 only)",
+    "FirstShowing.net release schedules 2026/2027 (cross-check; pages as crawled 2026-10-14, fetched 2026-11-23)",
     "The Numbers release schedule",
     "IMDb US calendar"
   ],
-  "count": 73,
+  "count": 74,
   "fields": [
     "ReleaseDate",
     "Title",
     "Distributor",
     "ReleaseType",
     "IMDbID",
-    "InPatreon",
+    "InFirstShowing",
     "InNumbers",
     "InIMDb",
     "Status",
@@ -23,63 +23,15 @@
   "releases": [
     {
       "ReleaseDate": "2026-12-04",
-      "Title": "Flavia",
-      "Distributor": "Magenta Light Studios",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt11662534",
-      "InPatreon": "Y",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Agree",
-      "Notes": "IMDb full title: Flavia de Luce: Girl Detective"
-    },
-    {
-      "ReleaseDate": "2026-12-04",
-      "Title": "The Gallerist",
-      "Distributor": "Roadside Attractions",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt34382912",
-      "InPatreon": "Y",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Agree",
-      "Notes": null
-    },
-    {
-      "ReleaseDate": "2026-12-04",
-      "Title": "November 1963",
-      "Distributor": "Ketchup Entertainment",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt9219630",
-      "InPatreon": "Y",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Agree",
-      "Notes": "Patreon lists as Ketch"
-    },
-    {
-      "ReleaseDate": "2026-12-04",
-      "Title": "Violent Night 2",
-      "Distributor": "Universal",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt32432428",
-      "InPatreon": "Y",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Agree",
-      "Notes": null
-    },
-    {
-      "ReleaseDate": "2026-12-04",
       "Title": "Above the Below",
       "Distributor": "Lionsgate",
       "ReleaseType": "Limited",
       "IMDbID": "tt29634374",
-      "InPatreon": "Y",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Dec 4 confirmed by Rotten Tomatoes, The Numbers, Lionsgate trailer. Not on IMDb calendar - calendar is incomplete, not a no-release. IMDb ID from search reference to imdb.com/title/tt29634374; not verified by opening IMDb page (IMDb text fetch fails)."
+      "Notes": "Dec 4 confirmed by Rotten Tomatoes, The Numbers, Lionsgate trailer. Not on IMDb calendar - calendar is incomplete, not a no-release. IMDb ID from search reference to imdb.com/title/tt29634374; not verified by opening IMDb page (IMDb text fetch fails). FirstShowing lists it bold (wide); Limited kept per Rotten Tomatoes / The Numbers / Lionsgate trailer.",
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2026-12-04",
@@ -87,23 +39,35 @@
       "Distributor": "Searchlight Pictures",
       "ReleaseType": "Limited",
       "IMDbID": "tt36415529",
-      "InPatreon": "Y",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": "Patreon lists distributor as Src"
+      "Notes": "Patreon lists distributor as Src",
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2026-12-04",
-      "Title": "Tender Loving Care",
-      "Distributor": "Bleecker Street",
-      "ReleaseType": "Limited",
-      "IMDbID": "tt35638092",
-      "InPatreon": "Y",
+      "Title": "Flavia",
+      "Distributor": "Magenta Light Studios",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt11662534",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": null
+      "Notes": "IMDb full title: Flavia de Luce: Girl Detective",
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2026-12-04",
+      "Title": "November 1963",
+      "Distributor": "Ketchup Entertainment",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt9219630",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Agree",
+      "Notes": "Patreon lists as Ketch",
+      "InFirstShowing": "N"
     },
     {
       "ReleaseDate": "2026-12-04",
@@ -111,11 +75,59 @@
       "Distributor": "Netflix",
       "ReleaseType": "Limited",
       "IMDbID": "tt18270542",
-      "InPatreon": "Y",
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Dec 4 limited confirmed by Wikipedia, Rotten Tomatoes, The Numbers. Streaming Dec 18 Netflix. Not on IMDb calendar - calendar is incomplete. IMDb ID from search reference to imdb.com/title/tt18270542."
+      "Notes": "Dec 4 limited confirmed by Wikipedia, Rotten Tomatoes, The Numbers. Streaming Dec 18 Netflix. Not on IMDb calendar - calendar is incomplete. IMDb ID from search reference to imdb.com/title/tt18270542.",
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2026-12-04",
+      "Title": "Tender Loving Care",
+      "Distributor": "Bleecker Street",
+      "ReleaseType": "Limited",
+      "IMDbID": "tt35638092",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Agree",
+      "Notes": null,
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2026-12-04",
+      "Title": "The Gallerist",
+      "Distributor": "Roadside Attractions",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt34382912",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Agree",
+      "Notes": null,
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2026-12-04",
+      "Title": "Violent Night 2",
+      "Distributor": "Universal",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt32432428",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Agree",
+      "Notes": null,
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2026-12-11",
+      "Title": "Clarissa",
+      "Distributor": "Neon",
+      "ReleaseType": "Limited",
+      "IMDbID": "tt33335610",
+      "InFirstShowing": "Y",
+      "InNumbers": "Y",
+      "InIMDb": "N",
+      "Status": "Decided",
+      "Notes": "Dec 11 limited confirmed by Wikipedia, Rotten Tomatoes, Slant, Neon. Cannes Directors' Fortnight May 16 2026. Mrs Dalloway reimagining set in Lagos; Sophie Okonedo, David Oyelowo, Ayo Edebiri. Missed in the first build - caught by the FirstShowing cross-check 2026-11-23. The Numbers lists it Dec 11 as Oscar Qualifying Run, Neon. IMDb ID tt33335610 from search reference (Chlotrudis, director/cast match); not verified by opening IMDb page."
     },
     {
       "ReleaseDate": "2026-12-11",
@@ -123,59 +135,11 @@
       "Distributor": "Bleecker Street",
       "ReleaseType": "Wide",
       "IMDbID": "tt40564737",
-      "InPatreon": "Y",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Dec 11 confirmed by Wikipedia, Rotten Tomatoes, Metacritic, The Numbers, Box Office Mojo, Bleecker Street press release. Wide per Numbers / Mojo / Metacritic; RT lists Limited. Not on IMDb calendar - calendar is incomplete. IMDb ID tt40564737 corroborated by Wikidata and Cinegraph."
-    },
-    {
-      "ReleaseDate": "2026-12-11",
-      "Title": "Zero A.D.",
-      "Distributor": "Angel Studios",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt34491649",
-      "InPatreon": "Y",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Agree",
-      "Notes": "IMDb full title: Zero A.D.: The Birth of Christ"
-    },
-    {
-      "ReleaseDate": "2026-12-11",
-      "Title": "The Debut",
-      "Distributor": "A24",
-      "ReleaseType": "Limited",
-      "IMDbID": "tt34718200",
-      "InPatreon": "Y",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Decided",
-      "Notes": "Dec 11 limited confirmed by The Numbers / Metacritic / A24 trailer; wide Dec 25 ignored for now. IMDb calendar lists Dec 25 only."
-    },
-    {
-      "ReleaseDate": "2026-12-11",
-      "Title": "Killing Castro",
-      "Distributor": "Lionsgate",
-      "ReleaseType": "Limited",
-      "IMDbID": "tt30057115",
-      "InPatreon": "Y",
-      "InNumbers": "Y",
-      "InIMDb": "N",
-      "Status": "Decided",
-      "Notes": "Dec 11 limited confirmed by Wikipedia, The Numbers, Lionsgate trailer; digital Dec 18. Patreon lists distributor as LGF. Not on IMDb calendar - calendar is incomplete. IMDb ID tt30057115 corroborated by synopsis (1960 Fidel Castro / Hotel Theresa)."
-    },
-    {
-      "ReleaseDate": "2026-12-11",
-      "Title": "Rose",
-      "Distributor": "MUBI",
-      "ReleaseType": "Limited",
-      "IMDbID": "tt25399154",
-      "InPatreon": "Y",
-      "InNumbers": "Y",
-      "InIMDb": "N",
-      "Status": "Decided",
-      "Notes": "Dec 11 limited confirmed by Wikipedia, The Numbers, MUBI. Berlinale Feb 15 2026, Austria Apr 17, Germany Apr 30. Not on IMDb calendar - calendar is incomplete. IMDb ID tt25399154 verified by opening IMDb page (Schleinzer / Hüller, MUBI Dec 11)."
+      "Notes": "Dec 11 confirmed by Wikipedia, Rotten Tomatoes, Metacritic, The Numbers, Box Office Mojo, Bleecker Street press release. Wide per Numbers / Mojo / Metacritic; RT lists Limited. Not on IMDb calendar - calendar is incomplete. IMDb ID tt40564737 corroborated by Wikidata and Cinegraph.",
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2026-12-11",
@@ -183,11 +147,59 @@
       "Distributor": "Netflix",
       "ReleaseType": "Limited",
       "IMDbID": "tt37967547",
-      "InPatreon": "Y",
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Dec 11 limited confirmed by Wikipedia, Rotten Tomatoes, Netflix; streaming Jan 8 2027. Venice Sep 2 2026. Not on IMDb calendar - calendar is incomplete. IMDb ID tt37967547 verified by opening IMDb page (Boyle / O'Connell / Pearce, Dec 11)."
+      "Notes": "Dec 11 limited confirmed by Wikipedia, Rotten Tomatoes, Netflix; streaming Jan 8 2027. Venice Sep 2 2026. Not on IMDb calendar - calendar is incomplete. IMDb ID tt37967547 verified by opening IMDb page (Boyle / O'Connell / Pearce, Dec 11).",
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2026-12-11",
+      "Title": "Killing Castro",
+      "Distributor": "Lionsgate",
+      "ReleaseType": "Limited",
+      "IMDbID": "tt30057115",
+      "InNumbers": "Y",
+      "InIMDb": "N",
+      "Status": "Decided",
+      "Notes": "Dec 11 limited confirmed by Wikipedia, The Numbers, Lionsgate trailer; digital Dec 18. Patreon lists distributor as LGF. Not on IMDb calendar - calendar is incomplete. IMDb ID tt30057115 corroborated by synopsis (1960 Fidel Castro / Hotel Theresa).",
+      "InFirstShowing": "N"
+    },
+    {
+      "ReleaseDate": "2026-12-11",
+      "Title": "Rose",
+      "Distributor": "MUBI",
+      "ReleaseType": "Limited",
+      "IMDbID": "tt25399154",
+      "InNumbers": "Y",
+      "InIMDb": "N",
+      "Status": "Decided",
+      "Notes": "Dec 11 limited confirmed by Wikipedia, The Numbers, MUBI. Berlinale Feb 15 2026, Austria Apr 17, Germany Apr 30. Not on IMDb calendar - calendar is incomplete. IMDb ID tt25399154 verified by opening IMDb page (Schleinzer / Hüller, MUBI Dec 11).",
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2026-12-11",
+      "Title": "The Debut",
+      "Distributor": "A24",
+      "ReleaseType": "Limited",
+      "IMDbID": "tt34718200",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Decided",
+      "Notes": "Dec 11 limited confirmed by The Numbers / Metacritic / A24 trailer; wide Dec 25 ignored for now. IMDb calendar lists Dec 25 only.",
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2026-12-11",
+      "Title": "Zero A.D.",
+      "Distributor": "Angel Studios",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt34491649",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Agree",
+      "Notes": "IMDb full title: Zero A.D.: The Birth of Christ",
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2026-12-18",
@@ -195,11 +207,11 @@
       "Distributor": "Walt Disney",
       "ReleaseType": "Wide",
       "IMDbID": "tt21357150",
-      "InPatreon": "Y",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2026-12-18",
@@ -207,11 +219,11 @@
       "Distributor": "Warner Bros.",
       "ReleaseType": "Wide",
       "IMDbID": "tt31378509",
-      "InPatreon": "Y",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2026-12-23",
@@ -219,11 +231,11 @@
       "Distributor": "Paramount Pictures",
       "ReleaseType": "Wide",
       "IMDbID": "tt32557122",
-      "InPatreon": "Y",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2026-12-25",
@@ -231,47 +243,11 @@
       "Distributor": "Neon",
       "ReleaseType": "Limited",
       "IMDbID": "tt37171180",
-      "InPatreon": "Y",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Dec 25 select theaters confirmed by Neon trailer / poster; wide Jan 8 2027. Both dates were right - different stages. IMDb Jan 8 is the wide date."
-    },
-    {
-      "ReleaseDate": "2026-12-25",
-      "Title": "Jumanji: Open World",
-      "Distributor": "Sony Pictures",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt26735127",
-      "InPatreon": "Y",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Agree",
-      "Notes": null
-    },
-    {
-      "ReleaseDate": "2026-12-25",
-      "Title": "Mr. Irrelevant",
-      "Distributor": "Paramount Pictures",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt30093348",
-      "InPatreon": "Y",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Agree",
-      "Notes": null
-    },
-    {
-      "ReleaseDate": "2026-12-25",
-      "Title": "Werwulf",
-      "Distributor": "Focus Features",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt35514120",
-      "InPatreon": "Y",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Agree",
-      "Notes": null
+      "Notes": "Dec 25 select theaters confirmed by Neon trailer / poster; wide Jan 8 2027. Both dates were right - different stages. IMDb Jan 8 is the wide date.",
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2026-12-25",
@@ -279,11 +255,47 @@
       "Distributor": "MUBI",
       "ReleaseType": "Limited",
       "IMDbID": "tt39328391",
-      "InPatreon": "Y",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2026-12-25",
+      "Title": "Jumanji: Open World",
+      "Distributor": "Sony Pictures",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt26735127",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Agree",
+      "Notes": null,
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2026-12-25",
+      "Title": "Mr. Irrelevant",
+      "Distributor": "Paramount Pictures",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt30093348",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Agree",
+      "Notes": null,
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2026-12-25",
+      "Title": "Werwulf",
+      "Distributor": "Focus Features",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt35514120",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Agree",
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2026-12-30",
@@ -291,11 +303,11 @@
       "Distributor": "GKIDS",
       "ReleaseType": "Limited",
       "IMDbID": "tt39094466",
-      "InPatreon": "Y",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Dec 30 select theaters confirmed by GKIDS announcement; nationwide Jan 15 2027. Both dates were right - different stages. IMDb Jan 15 is the wide date. Patreon lists distributor as GKDS."
+      "Notes": "Dec 30 select theaters confirmed by GKIDS announcement; nationwide Jan 15 2027. Both dates were right - different stages. IMDb Jan 15 is the wide date. Patreon lists distributor as GKDS.",
+      "InFirstShowing": "N"
     },
     {
       "ReleaseDate": "2027-01-01",
@@ -303,11 +315,11 @@
       "Distributor": "Vertical Entertainment",
       "ReleaseType": "Wide",
       "IMDbID": "tt34378250",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Jan 1 wide confirmed by Wikipedia, The Numbers, Vertical trailer. Patreon calendar is 2026 only. Not on IMDb calendar - calendar is incomplete. IMDb ID tt34378250 verified by opening IMDb page (Heyman / Gordon-Levitt / Dynevor); IMDb lists it as Dec 31 2026, poster says 01.01.27 - Jan 1 kept per Vertical."
+      "Notes": "Jan 1 wide confirmed by Wikipedia, The Numbers, Vertical trailer. Patreon calendar is 2026 only. Not on IMDb calendar - calendar is incomplete. IMDb ID tt34378250 verified by opening IMDb page (Heyman / Gordon-Levitt / Dynevor); IMDb lists it as Dec 31 2026, poster says 01.01.27 - Jan 1 kept per Vertical.",
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-01-08",
@@ -315,11 +327,11 @@
       "Distributor": "Viva Pictures",
       "ReleaseType": "Wide",
       "IMDbID": "tt20259240",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "N"
     },
     {
       "ReleaseDate": "2027-01-08",
@@ -327,23 +339,11 @@
       "Distributor": "Bleecker Street",
       "ReleaseType": "Limited",
       "IMDbID": "tt8613988",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
-    },
-    {
-      "ReleaseDate": "2027-01-15",
-      "Title": "The Beekeeper 2",
-      "Distributor": "Amazon MGM Studios",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt35935357",
-      "InPatreon": "n/a",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-01-15",
@@ -351,11 +351,11 @@
       "Distributor": "Sony Pictures Classics",
       "ReleaseType": "Wide",
       "IMDbID": "tt36770512",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Jan 15 nationwide confirmed by Sony Pictures Classics press release, The Numbers, People. Awards-qualifying run Dec 11 2026 NY/LA. Not on IMDb calendar - calendar is incomplete. IMDb ID tt36770512 verified by opening IMDb page (Zeller / Bardem / Cruz)."
+      "Notes": "Jan 15 nationwide confirmed by Sony Pictures Classics press release, The Numbers, People. Awards-qualifying run Dec 11 2026 NY/LA. Not on IMDb calendar - calendar is incomplete. IMDb ID tt36770512 verified by opening IMDb page (Zeller / Bardem / Cruz).",
+      "InFirstShowing": "N"
     },
     {
       "ReleaseDate": "2027-01-15",
@@ -363,11 +363,11 @@
       "Distributor": "Paramount Pictures",
       "ReleaseType": "Wide",
       "IMDbID": "tt6779038",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Jan 15 wide confirmed by Wikipedia, Paramount trailer, The Numbers, Metacritic. Patreon calendar is 2026 only. Not on IMDb calendar - calendar is incomplete. IMDb ID tt6779038 verified by opening IMDb page (Prince-Bythewood / Mbedu, Jan 14/15 2027)."
+      "Notes": "Jan 15 wide confirmed by Wikipedia, Paramount trailer, The Numbers, Metacritic. Patreon calendar is 2026 only. Not on IMDb calendar - calendar is incomplete. IMDb ID tt6779038 verified by opening IMDb page (Prince-Bythewood / Mbedu, Jan 14/15 2027).",
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-01-15",
@@ -375,11 +375,11 @@
       "Distributor": "Angel Studios",
       "ReleaseType": "Wide",
       "IMDbID": "tt31888498",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-01-15",
@@ -387,11 +387,11 @@
       "Distributor": "Universal",
       "ReleaseType": "Wide",
       "IMDbID": "tt33085567",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-01-15",
@@ -399,11 +399,23 @@
       "Distributor": "IFC Entertainment Group",
       "ReleaseType": "Limited",
       "IMDbID": "tt22183852",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Jan 15 limited confirmed by Wikipedia / IFC / official site; wide Jan 22 ignored for now. IMDb calendar lists Jan 22 only. Oscar Qualifying Run Nov 27 2026."
+      "Notes": "Jan 15 limited confirmed by Wikipedia, The Numbers, IFC. Oscar-qualifying run Nov 27 2026 NYC IFC Center / Dec 3 LA, regular engagement Jan 15; wide Jan 22 ignored per rule. FirstShowing lists both the Nov 27 qualifying run and Jan 15.",
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2027-01-15",
+      "Title": "The Beekeeper 2",
+      "Distributor": "Amazon MGM Studios",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt35935357",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Numbers only",
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-01-22",
@@ -411,11 +423,11 @@
       "Distributor": "Cineverse",
       "ReleaseType": "Wide",
       "IMDbID": "tt37676881",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-01-22",
@@ -423,11 +435,11 @@
       "Distributor": "Warner Bros.",
       "ReleaseType": "Wide",
       "IMDbID": "tt16911616",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-01-22",
@@ -435,11 +447,11 @@
       "Distributor": "Vertical Entertainment",
       "ReleaseType": "Wide",
       "IMDbID": "tt27706987",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-01-22",
@@ -447,11 +459,11 @@
       "Distributor": "Bleecker Street",
       "ReleaseType": "Wide",
       "IMDbID": "tt8702454",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Jan 22 wide confirmed by Wikipedia, The Numbers, Box Office Mojo. Originally Aug 7 2026. Not on IMDb calendar - calendar is incomplete. IMDb ID from IMDbPro reference to tt8702454."
+      "Notes": "Jan 22 wide confirmed by Wikipedia, The Numbers, Box Office Mojo. Originally Aug 7 2026. Not on IMDb calendar - calendar is incomplete. IMDb ID from IMDbPro reference to tt8702454.",
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-01-29",
@@ -459,23 +471,11 @@
       "Distributor": "Briarcliff Entertainment",
       "ReleaseType": "Wide",
       "IMDbID": "tt35893068",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
-    },
-    {
-      "ReleaseDate": "2027-01-29",
-      "Title": "The Rescue",
-      "Distributor": "Paramount Pictures",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt35606013",
-      "InPatreon": "n/a",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-01-29",
@@ -483,11 +483,23 @@
       "Distributor": "A24",
       "ReleaseType": "Wide",
       "IMDbID": "tt37360759",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "N"
+    },
+    {
+      "ReleaseDate": "2027-01-29",
+      "Title": "The Rescue",
+      "Distributor": "Paramount Pictures",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt35606013",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Numbers only",
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-01-29",
@@ -495,23 +507,11 @@
       "Distributor": "Sony Pictures",
       "ReleaseType": "Wide",
       "IMDbID": "tt31970593",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
-    },
-    {
-      "ReleaseDate": "2027-02-05",
-      "Title": "The Comeback King",
-      "Distributor": "Universal",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt36593129",
-      "InPatreon": "n/a",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "N"
     },
     {
       "ReleaseDate": "2027-02-05",
@@ -519,11 +519,11 @@
       "Distributor": "20th Century Studios",
       "ReleaseType": "Wide",
       "IMDbID": "tt34512981",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-02-05",
@@ -531,11 +531,11 @@
       "Distributor": "Lionsgate",
       "ReleaseType": "Wide",
       "IMDbID": "tt33295857",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided - moved to Feb 5",
-      "Notes": "Originally Jan 29 per Deadline Jun 2026; moved to Feb 5 2027 per Wikipedia / Rotten Tomatoes / trailer. The Numbers Jan 29 is outdated."
+      "Notes": "Originally Jan 29 per Deadline Jun 2026; moved to Feb 5 2027 per Wikipedia / Rotten Tomatoes / trailer. The Numbers Jan 29 is outdated. FirstShowing still lists Jan 29; Feb 5 kept per Wikipedia / Rotten Tomatoes / trailer.",
+      "InFirstShowing": "N"
     },
     {
       "ReleaseDate": "2027-02-05",
@@ -543,11 +543,11 @@
       "Distributor": "Magenta Light Studios",
       "ReleaseType": "Wide",
       "IMDbID": "tt37255755",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Feb 5 wide confirmed by Wikipedia, The Numbers, Metacritic, Dread Central. Originally announced Q1 2027 only. Not on IMDb calendar - calendar is incomplete. IMDb ID from IMDbPro reference to tt37255755."
+      "Notes": "Feb 5 wide confirmed by Wikipedia, The Numbers, Metacritic, Dread Central. Originally announced Q1 2027 only. Not on IMDb calendar - calendar is incomplete. IMDb ID from IMDbPro reference to tt37255755.",
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-02-05",
@@ -555,11 +555,23 @@
       "Distributor": "Warner Bros.",
       "ReleaseType": "Wide",
       "IMDbID": "tt35621542",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2027-02-05",
+      "Title": "The Comeback King",
+      "Distributor": "Universal",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt36593129",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Numbers only",
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-02-12",
@@ -567,11 +579,11 @@
       "Distributor": "IFC Entertainment Group",
       "ReleaseType": "Wide",
       "IMDbID": "tt33042320",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-02-12",
@@ -579,11 +591,11 @@
       "Distributor": "Netflix",
       "ReleaseType": "Wide",
       "IMDbID": "tt9077514",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": "Netflix wide theatrical; IMAX Feb 10 as Narnia"
+      "Notes": "Netflix wide theatrical; IMAX Feb 10 as Narnia",
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-02-12",
@@ -591,11 +603,11 @@
       "Distributor": "Angel Studios",
       "ReleaseType": "Wide",
       "IMDbID": null,
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Numbers only",
-      "Notes": "Feb 12 wide per The Numbers only. No title announced, no other source found. No IMDb page."
+      "Notes": "Feb 12 wide per The Numbers only. No title announced, no other source found. No IMDb page.",
+      "InFirstShowing": "N"
     },
     {
       "ReleaseDate": "2027-02-12",
@@ -603,59 +615,11 @@
       "Distributor": "Sony Pictures Classics",
       "ReleaseType": "Wide",
       "IMDbID": "tt37599264",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
-    },
-    {
-      "ReleaseDate": "2027-02-19",
-      "Title": "Babies",
-      "Distributor": "Vertical Entertainment",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt38066489",
-      "InPatreon": "n/a",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Numbers only",
-      "Notes": null
-    },
-    {
-      "ReleaseDate": "2027-02-19",
-      "Title": "CoComelon: The Movie",
-      "Distributor": "Universal",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt31339071",
-      "InPatreon": "n/a",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Numbers only",
-      "Notes": null
-    },
-    {
-      "ReleaseDate": "2027-02-19",
-      "Title": "Untitled Neon Horror Film",
-      "Distributor": "Neon",
-      "ReleaseType": "Wide",
-      "IMDbID": null,
-      "InPatreon": "n/a",
-      "InNumbers": "Y",
-      "InIMDb": "N",
-      "Status": "Numbers only",
-      "Notes": "Feb 19 wide per The Numbers only. No title yet; likely the SCP Foundation anthology Neon announced Oct 1 2026 for 2027 - not confirmed as this slot. No IMDb page."
-    },
-    {
-      "ReleaseDate": "2027-02-19",
-      "Title": "Wife & Dog",
-      "Distributor": "Black Bear Pictures",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt32359344",
-      "InPatreon": "n/a",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-02-19",
@@ -663,11 +627,59 @@
       "Distributor": "Roadside Attractions",
       "ReleaseType": "Limited",
       "IMDbID": null,
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Numbers only",
-      "Notes": "Feb 19 limited per The Numbers only, Roadside Attractions. Annual shorts program (Animated / Documentary / Live Action). No single IMDb title page."
+      "Notes": "Feb 19 limited per The Numbers only, Roadside Attractions. Annual shorts program (Animated / Documentary / Live Action). No single IMDb title page.",
+      "InFirstShowing": "N"
+    },
+    {
+      "ReleaseDate": "2027-02-19",
+      "Title": "Babies",
+      "Distributor": "Vertical Entertainment",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt38066489",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Numbers only",
+      "Notes": null,
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2027-02-19",
+      "Title": "CoComelon: The Movie",
+      "Distributor": "Universal",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt31339071",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Numbers only",
+      "Notes": null,
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2027-02-19",
+      "Title": "Untitled Neon Horror Film",
+      "Distributor": "Neon",
+      "ReleaseType": "Wide",
+      "IMDbID": null,
+      "InNumbers": "Y",
+      "InIMDb": "N",
+      "Status": "Numbers only",
+      "Notes": "Feb 19 wide per The Numbers only. No title yet; likely the SCP Foundation anthology Neon announced Oct 1 2026 for 2027 - not confirmed as this slot. No IMDb page.",
+      "InFirstShowing": "N"
+    },
+    {
+      "ReleaseDate": "2027-02-19",
+      "Title": "Wife & Dog",
+      "Distributor": "Black Bear Pictures",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt32359344",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Numbers only",
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-02-26",
@@ -675,11 +687,11 @@
       "Distributor": "Paramount Pictures",
       "ReleaseType": "Wide",
       "IMDbID": "tt8992304",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-02-26",
@@ -687,11 +699,11 @@
       "Distributor": "Sony Pictures",
       "ReleaseType": "Wide",
       "IMDbID": "tt38593232",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-02-26",
@@ -699,11 +711,11 @@
       "Distributor": "Warner Bros.",
       "ReleaseType": "Wide",
       "IMDbID": "tt37897207",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-03-05",
@@ -711,11 +723,11 @@
       "Distributor": "Walt Disney",
       "ReleaseType": "Wide",
       "IMDbID": "tt26443610",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-03-05",
@@ -723,11 +735,11 @@
       "Distributor": "Amazon MGM Studios",
       "ReleaseType": "Wide",
       "IMDbID": "tt5500064",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-03-05",
@@ -735,11 +747,11 @@
       "Distributor": "Warner Bros.",
       "ReleaseType": "Wide",
       "IMDbID": null,
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Numbers only",
-      "Notes": "Mar 5 wide per The Numbers; also on Warner Bros. 2027 slate lists (ScreenRant). No title announced; fan speculation it is The Batman Part II is unconfirmed - do not assign. No IMDb page."
+      "Notes": "Mar 5 wide per The Numbers; also on Warner Bros. 2027 slate lists (ScreenRant). No title announced; fan speculation it is The Batman Part II is unconfirmed - do not assign. No IMDb page.",
+      "InFirstShowing": "N"
     },
     {
       "ReleaseDate": "2027-03-05",
@@ -747,11 +759,11 @@
       "Distributor": "Sony Pictures",
       "ReleaseType": "Wide",
       "IMDbID": null,
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Numbers only",
-      "Notes": "Mar 5 wide per The Numbers only. No title announced. Speculation it is the Fred Astaire biopic (Tom Holland) is unconfirmed - do not assign. No IMDb page."
+      "Notes": "Mar 5 wide per The Numbers only. No title announced. Speculation it is the Fred Astaire biopic (Tom Holland) is unconfirmed - do not assign. No IMDb page.",
+      "InFirstShowing": "N"
     },
     {
       "ReleaseDate": "2027-03-05",
@@ -759,11 +771,11 @@
       "Distributor": "Roadside Attractions",
       "ReleaseType": "Wide",
       "IMDbID": "tt37458298",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "N"
     },
     {
       "ReleaseDate": "2027-03-12",
@@ -771,11 +783,11 @@
       "Distributor": "Amazon MGM Studios",
       "ReleaseType": "Wide",
       "IMDbID": "tt42833482",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": "IMDb full title: The Chosen: The Crucifixion"
+      "Notes": "IMDb full title: The Chosen: The Crucifixion",
+      "InFirstShowing": "N"
     },
     {
       "ReleaseDate": "2027-03-12",
@@ -783,11 +795,11 @@
       "Distributor": "Universal",
       "ReleaseType": "Wide",
       "IMDbID": "tt32492552",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-03-12",
@@ -795,11 +807,11 @@
       "Distributor": "Warner Bros.",
       "ReleaseType": "Wide",
       "IMDbID": null,
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Numbers only",
-      "Notes": "Mar 12 wide per The Numbers only. No title announced. Note: tt10954228 is a different WB event film dated Mar 26, not this one. No IMDb page."
+      "Notes": "Mar 12 wide per The Numbers only. No title announced. Note: tt10954228 is a different WB event film dated Mar 26, not this one. No IMDb page.",
+      "InFirstShowing": "N"
     },
     {
       "ReleaseDate": "2027-03-19",
@@ -807,23 +819,11 @@
       "Distributor": "Prathyangira Cinemas",
       "ReleaseType": "Wide",
       "IMDbID": "tt29295821",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Mar 19 wide confirmed by The Numbers, BookMyShow, Bollywood Hungama, first-look poster. Moved from Dec 3 2026. Prabhas, dir. Hanu Raghavapudi. IMDb ID tt29295821 verified by opening IMDb page (Raghavapudi / Prabhas, Mar 19 2027)."
-    },
-    {
-      "ReleaseDate": "2027-03-19",
-      "Title": "The Nightingale",
-      "Distributor": "Sony Pictures",
-      "ReleaseType": "Wide",
-      "IMDbID": "tt4540534",
-      "InPatreon": "n/a",
-      "InNumbers": "Y",
-      "InIMDb": "Y",
-      "Status": "Numbers only",
-      "Notes": null
+      "Notes": "Mar 19 wide confirmed by The Numbers, BookMyShow, Bollywood Hungama, first-look poster. Moved from Dec 3 2026. Prabhas, dir. Hanu Raghavapudi. IMDb ID tt29295821 verified by opening IMDb page (Raghavapudi / Prabhas, Mar 19 2027).",
+      "InFirstShowing": "N"
     },
     {
       "ReleaseDate": "2027-03-19",
@@ -831,11 +831,23 @@
       "Distributor": "Paramount Pictures",
       "ReleaseType": "Wide",
       "IMDbID": "tt16744566",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
+    },
+    {
+      "ReleaseDate": "2027-03-19",
+      "Title": "The Nightingale",
+      "Distributor": "Sony Pictures",
+      "ReleaseType": "Wide",
+      "IMDbID": "tt4540534",
+      "InNumbers": "Y",
+      "InIMDb": "Y",
+      "Status": "Numbers only",
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-03-19",
@@ -843,11 +855,11 @@
       "Distributor": "Cineverse",
       "ReleaseType": "Wide",
       "IMDbID": "tt4776944",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-03-26",
@@ -855,11 +867,11 @@
       "Distributor": "Lionsgate",
       "ReleaseType": "Wide",
       "IMDbID": "tt18795088",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-03-26",
@@ -867,11 +879,11 @@
       "Distributor": "Warner Bros.",
       "ReleaseType": "Wide",
       "IMDbID": "tt32561550",
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "InFirstShowing": "Y"
     },
     {
       "ReleaseDate": "2027-03-26",
@@ -879,11 +891,11 @@
       "Distributor": "Angel Studios",
       "ReleaseType": "Wide",
       "IMDbID": null,
-      "InPatreon": "n/a",
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Numbers only",
-      "Notes": "Mar 26 wide per The Numbers only. No title announced, no other source found. No IMDb page."
+      "Notes": "Mar 26 wide per The Numbers only. No title announced, no other source found. No IMDb page.",
+      "InFirstShowing": "N"
     },
     {
       "ReleaseDate": "2026-11-06",
@@ -891,11 +903,11 @@
       "Distributor": "A24",
       "ReleaseType": "Limited",
       "IMDbID": "tt38058097",
-      "InPatreon": "Y",
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "limited Nov 6 confirmed by Wikipedia / The Numbers / A24; expands wide Nov 25 per The Numbers / Cinemark. Patreon Dec 11 is wrong. IMDb Nov 20 not corroborated."
+      "Notes": "limited Nov 6 confirmed by Wikipedia / The Numbers / A24; expands wide Nov 25 per The Numbers / Cinemark. Patreon Dec 11 is wrong. IMDb Nov 20 not corroborated.",
+      "InFirstShowing": "N"
     }
   ]
 }
