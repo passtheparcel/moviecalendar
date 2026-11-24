@@ -22,10 +22,10 @@ ReleaseDate,Title,Distributor,MajorDistributor,ReleaseType,TicketsOnSale,IMDbID,
 2026-12-11,Zero A.D.,Angel Studios,Y,Wide,,tt34491649,Y,Y,Y,Agree,IMDb full title: Zero A.D.: The Birth of Christ
 2026-12-18,Avengers: Doomsday,Walt Disney,Y,Wide,,tt21357150,Y,Y,Y,Agree,
 2026-12-18,Dune: Part Three,Warner Bros.,Y,Wide,,tt31378509,Y,Y,Y,Agree,
-2026-12-23,The Angry Birds Movie 3,Paramount Pictures,Y,Wide,,tt32557122,Y,Y,Y,Agree,
+2026-12-23,The Angry Birds Movie 3,Paramount Pictures,Y,Wide,2026-12-03,tt32557122,Y,Y,Y,Agree,"Tickets on sale Dec 3, 2026 per Patreon (misterpepp) email Nov 13, 2026."
 2026-12-25,Artificial,Neon,Y,Limited,,tt37171180,Y,Y,Y,Decided,Dec 25 select theaters confirmed by Neon trailer / poster; wide Jan 8 2027. Both dates were right - different stages. IMDb Jan 8 is the wide date.
 2026-12-25,Coward,MUBI,Y,Limited,,tt39328391,Y,Y,Y,Agree,
-2026-12-25,Jumanji: Open World,Sony Pictures,Y,Wide,,tt26735127,Y,Y,Y,Agree,
+2026-12-25,Jumanji: Open World,Sony Pictures,Y,Wide,2026-11-30,tt26735127,Y,Y,Y,Agree,"Tickets on sale Nov 30, 2026 per Patreon (misterpepp) email Nov 17, 2026."
 2026-12-25,Mr. Irrelevant,Paramount Pictures,Y,Wide,,tt30093348,Y,Y,Y,Agree,
 2026-12-25,Werwulf,Focus Features,Y,Wide,,tt35514120,Y,Y,Y,Agree,
 2026-12-30,Look Back,GKIDS,Y,Limited,,tt39094466,N,Y,Y,Decided,Dec 30 select theaters confirmed by GKIDS announcement; nationwide Jan 15 2027. Both dates were right - different stages. IMDb Jan 15 is the wide date. Patreon lists distributor as GKDS.
@@ -37,7 +37,7 @@ ReleaseDate,Title,Distributor,MajorDistributor,ReleaseType,TicketsOnSale,IMDbID,
 2027-01-15,Fing!,Angel Studios,Y,Wide,,tt31888498,Y,Y,Y,Numbers only,
 2027-01-15,River,Universal,Y,Wide,,tt33085567,Y,Y,Y,Numbers only,
 2027-01-15,Tangles,IFC Entertainment Group,Y,Limited,,tt22183852,Y,Y,Y,Decided,"Jan 15 limited confirmed by Wikipedia, The Numbers, IFC. Oscar-qualifying run Nov 27 2026 NYC IFC Center / Dec 3 LA, regular engagement Jan 15; wide Jan 22 ignored per rule. FirstShowing lists both the Nov 27 qualifying run and Jan 15."
-2027-01-15,The Beekeeper 2,Amazon MGM Studios,Y,Wide,,tt35935357,Y,Y,Y,Numbers only,
+2027-01-15,The Beekeeper 2,Amazon MGM Studios,Y,Wide,2026-12-18,tt35935357,Y,Y,Y,Numbers only,"Tickets on sale Dec 18, 2026 per Patreon (misterpepp) email Oct 26, 2026."
 2027-01-22,Air Bud Returns,Cineverse,N,Wide,,tt37676881,Y,Y,Y,Numbers only,
 2027-01-22,Animal Friends,Warner Bros.,Y,Wide,,tt16911616,Y,Y,Y,Numbers only,
 2027-01-22,Lords of War,Vertical Entertainment,N,Wide,,tt27706987,Y,Y,Y,Numbers only,
