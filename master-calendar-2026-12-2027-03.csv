@@ -1,81 +1,93 @@
-ReleaseDate,Title,Distributor,MajorDistributor,ReleaseType,IMDbID,InFirstShowing,InNumbers,InIMDb,Status,Notes
-2026-11-25,All of a Sudden,Neon,Y,Limited,tt36834996,Y,Y,Y,Decided,"Thanksgiving week. IMDb page opened and verified: Ryusuke Hamaguchi, Virginie Efira, Nov 25 2026."
-2026-11-25,Focker-in-Law,Universal,Y,Wide,tt34966140,Y,Y,Y,Decided,"Thanksgiving week. IMDb page opened and verified: John Hamburg, Ben Stiller / Robert De Niro / Ariana Grande, Nov 25 2026."
-2026-11-25,Hershey,Angel Studios,Y,Wide,tt17055444,Y,Y,Y,Decided,"Thanksgiving week. IMDb page opened and verified: Mark Waters, Finn Wittrock as Milton Hershey, Nov 25 2026."
-2026-11-25,Hexed,Walt Disney,Y,Wide,tt38077943,Y,Y,Y,Decided,"Thanksgiving week. IMDb page opened and verified: Jason Hand / Fawn Veerasunthorn / Josie Trinidad, Hailee Steinfeld, Nov 25 2026."
-2026-11-25,The Further Mis-Adventures of Cliff Booth,Netflix,Y,Limited,tt36408401,Y,Y,Y,Decided,"Thanksgiving week, IMAX-only 2-week run Nov 25; Netflix streaming Dec 23. IMDb main date is Dec 23 (streaming); IMAX Nov 25 confirmed by IMDb page note and The Numbers."
-2026-11-27,14th,Netflix,Y,Limited,tt43682722,N,Y,Y,Decided,Thanksgiving week. IMDb page opened and verified: Ava DuVernay documentary; poster reads 'In Select Theaters November 27 - Netflix | December 4'. IMDb main date is Dec 4 (streaming).
-2026-12-04,Above the Below,Lionsgate,Y,Limited,tt29634374,Y,Y,Y,Decided,"Dec 4 confirmed by Rotten Tomatoes, The Numbers, Lionsgate trailer. Not on IMDb calendar - calendar is incomplete, not a no-release. IMDb ID from search reference to imdb.com/title/tt29634374; not verified by opening IMDb page (IMDb text fetch fails). FirstShowing lists it bold (wide); Limited kept per Rotten Tomatoes / The Numbers / Lionsgate trailer."
-2026-12-04,Behemoth!,Searchlight Pictures,Y,Limited,tt36415529,Y,Y,Y,Agree,Patreon lists distributor as Src
-2026-12-04,Flavia,Magenta Light Studios,N,Wide,tt11662534,Y,Y,Y,Agree,IMDb full title: Flavia de Luce: Girl Detective
-2026-12-04,November 1963,Ketchup Entertainment,N,Wide,tt9219630,N,Y,Y,Agree,Patreon lists as Ketch
-2026-12-04,Ray Gunn,Netflix,Y,Limited,tt18270542,Y,Y,N,Decided,"Dec 4 limited confirmed by Wikipedia, Rotten Tomatoes, The Numbers. Streaming Dec 18 Netflix. Not on IMDb calendar - calendar is incomplete. IMDb ID from search reference to imdb.com/title/tt18270542."
-2026-12-04,Tender Loving Care,Bleecker Street,Y,Limited,tt35638092,Y,Y,Y,Agree,
-2026-12-04,The Gallerist,Roadside Attractions,Y,Wide,tt34382912,Y,Y,Y,Agree,
-2026-12-04,Violent Night 2,Universal,Y,Wide,tt32432428,Y,Y,Y,Agree,
-2026-12-11,Clarissa,Neon,Y,Limited,tt33335610,Y,Y,N,Decided,"Dec 11 limited confirmed by Wikipedia, Rotten Tomatoes, Slant, Neon. Cannes Directors' Fortnight May 16 2026. Mrs Dalloway reimagining set in Lagos; Sophie Okonedo, David Oyelowo, Ayo Edebiri. Missed in the first build - caught by the FirstShowing cross-check 2026-11-23. The Numbers lists it Dec 11 as Oscar Qualifying Run, Neon. IMDb ID tt33335610 from search reference (Chlotrudis, director/cast match); not verified by opening IMDb page."
-2026-12-11,George Michael: The Faith Tour,Bleecker Street,Y,Wide,tt40564737,Y,Y,Y,Decided,"Dec 11 confirmed by Wikipedia, Rotten Tomatoes, Metacritic, The Numbers, Box Office Mojo, Bleecker Street press release. Wide per Numbers / Mojo / Metacritic; RT lists Limited. Not on IMDb calendar - calendar is incomplete. IMDb ID tt40564737 corroborated by Wikidata and Cinegraph."
-2026-12-11,Ink,Netflix,Y,Limited,tt37967547,Y,Y,N,Decided,"Dec 11 limited confirmed by Wikipedia, Rotten Tomatoes, Netflix; streaming Jan 8 2027. Venice Sep 2 2026. Not on IMDb calendar - calendar is incomplete. IMDb ID tt37967547 verified by opening IMDb page (Boyle / O'Connell / Pearce, Dec 11)."
-2026-12-11,Killing Castro,Lionsgate,Y,Limited,tt30057115,N,Y,N,Decided,"Dec 11 limited confirmed by Wikipedia, The Numbers, Lionsgate trailer; digital Dec 18. Patreon lists distributor as LGF. Not on IMDb calendar - calendar is incomplete. IMDb ID tt30057115 corroborated by synopsis (1960 Fidel Castro / Hotel Theresa)."
-2026-12-11,Rose,MUBI,Y,Limited,tt25399154,Y,Y,N,Decided,"Dec 11 limited confirmed by Wikipedia, The Numbers, MUBI. Berlinale Feb 15 2026, Austria Apr 17, Germany Apr 30. Not on IMDb calendar - calendar is incomplete. IMDb ID tt25399154 verified by opening IMDb page (Schleinzer / Hüller, MUBI Dec 11)."
-2026-12-11,The Debut,A24,Y,Limited,tt34718200,Y,Y,Y,Decided,Dec 11 limited confirmed by The Numbers / Metacritic / A24 trailer; wide Dec 25 ignored for now. IMDb calendar lists Dec 25 only.
-2026-12-11,Zero A.D.,Angel Studios,Y,Wide,tt34491649,Y,Y,Y,Agree,IMDb full title: Zero A.D.: The Birth of Christ
-2026-12-18,Avengers: Doomsday,Walt Disney,Y,Wide,tt21357150,Y,Y,Y,Agree,
-2026-12-18,Dune: Part Three,Warner Bros.,Y,Wide,tt31378509,Y,Y,Y,Agree,
-2026-12-23,The Angry Birds Movie 3,Paramount Pictures,Y,Wide,tt32557122,Y,Y,Y,Agree,
-2026-12-25,Artificial,Neon,Y,Limited,tt37171180,Y,Y,Y,Decided,Dec 25 select theaters confirmed by Neon trailer / poster; wide Jan 8 2027. Both dates were right - different stages. IMDb Jan 8 is the wide date.
-2026-12-25,Coward,MUBI,Y,Limited,tt39328391,Y,Y,Y,Agree,
-2026-12-25,Jumanji: Open World,Sony Pictures,Y,Wide,tt26735127,Y,Y,Y,Agree,
-2026-12-25,Mr. Irrelevant,Paramount Pictures,Y,Wide,tt30093348,Y,Y,Y,Agree,
-2026-12-25,Werwulf,Focus Features,Y,Wide,tt35514120,Y,Y,Y,Agree,
-2026-12-30,Look Back,GKIDS,Y,Limited,tt39094466,N,Y,Y,Decided,Dec 30 select theaters confirmed by GKIDS announcement; nationwide Jan 15 2027. Both dates were right - different stages. IMDb Jan 15 is the wide date. Patreon lists distributor as GKDS.
-2027-01-01,Pendulum,Vertical Entertainment,N,Wide,tt34378250,Y,Y,N,Decided,"Jan 1 wide confirmed by Wikipedia, The Numbers, Vertical trailer. Patreon calendar is 2026 only. Not on IMDb calendar - calendar is incomplete. IMDb ID tt34378250 verified by opening IMDb page (Heyman / Gordon-Levitt / Dynevor); IMDb lists it as Dec 31 2026, poster says 01.01.27 - Jan 1 kept per Vertical."
-2027-01-08,Cloud Girl,Viva Pictures,N,Wide,tt20259240,N,Y,Y,Numbers only,
-2027-01-08,The Liberation,Bleecker Street,Y,Limited,tt8613988,Y,Y,Y,Numbers only,
-2027-01-15,Bunker,Sony Pictures Classics,Y,Wide,tt36770512,N,Y,N,Decided,"Jan 15 nationwide confirmed by Sony Pictures Classics press release, The Numbers, People. Awards-qualifying run Dec 11 2026 NY/LA. Not on IMDb calendar - calendar is incomplete. IMDb ID tt36770512 verified by opening IMDb page (Zeller / Bardem / Cruz)."
-2027-01-15,Children of Blood and Bone,Paramount Pictures,Y,Wide,tt6779038,Y,Y,N,Decided,"Jan 15 wide confirmed by Wikipedia, Paramount trailer, The Numbers, Metacritic. Patreon calendar is 2026 only. Not on IMDb calendar - calendar is incomplete. IMDb ID tt6779038 verified by opening IMDb page (Prince-Bythewood / Mbedu, Jan 14/15 2027)."
-2027-01-15,Fing!,Angel Studios,Y,Wide,tt31888498,Y,Y,Y,Numbers only,
-2027-01-15,River,Universal,Y,Wide,tt33085567,Y,Y,Y,Numbers only,
-2027-01-15,Tangles,IFC Entertainment Group,Y,Limited,tt22183852,Y,Y,Y,Decided,"Jan 15 limited confirmed by Wikipedia, The Numbers, IFC. Oscar-qualifying run Nov 27 2026 NYC IFC Center / Dec 3 LA, regular engagement Jan 15; wide Jan 22 ignored per rule. FirstShowing lists both the Nov 27 qualifying run and Jan 15."
-2027-01-15,The Beekeeper 2,Amazon MGM Studios,Y,Wide,tt35935357,Y,Y,Y,Numbers only,
-2027-01-22,Air Bud Returns,Cineverse,N,Wide,tt37676881,Y,Y,Y,Numbers only,
-2027-01-22,Animal Friends,Warner Bros.,Y,Wide,tt16911616,Y,Y,Y,Numbers only,
-2027-01-22,Lords of War,Vertical Entertainment,N,Wide,tt27706987,Y,Y,Y,Numbers only,
-2027-01-22,The Third Parent,Bleecker Street,Y,Wide,tt8702454,Y,Y,N,Decided,"Jan 22 wide confirmed by Wikipedia, The Numbers, Box Office Mojo. Originally Aug 7 2026. Not on IMDb calendar - calendar is incomplete. IMDb ID from IMDbPro reference to tt8702454."
-2027-01-29,Drag,Briarcliff Entertainment,Y,Wide,tt35893068,Y,Y,Y,Numbers only,
-2027-01-29,Slayground,A24,Y,Wide,tt37360759,N,Y,Y,Numbers only,
-2027-01-29,The Rescue,Paramount Pictures,Y,Wide,tt35606013,Y,Y,Y,Numbers only,
-2027-01-29,Witch on the Holy Night,Sony Pictures,Y,Wide,tt31970593,N,Y,Y,Numbers only,
-2027-02-05,Ice Age: Boiling Point,20th Century Studios,Y,Wide,tt34512981,Y,Y,Y,Numbers only,
-2027-02-05,Karoshi,Lionsgate,Y,Wide,tt33295857,N,Y,Y,Decided - moved to Feb 5,Originally Jan 29 per Deadline Jun 2026; moved to Feb 5 2027 per Wikipedia / Rotten Tomatoes / trailer. The Numbers Jan 29 is outdated. FirstShowing still lists Jan 29; Feb 5 kept per Wikipedia / Rotten Tomatoes / trailer.
-2027-02-05,Lice,Magenta Light Studios,N,Wide,tt37255755,Y,Y,N,Decided,"Feb 5 wide confirmed by Wikipedia, The Numbers, Metacritic, Dread Central. Originally announced Q1 2027 only. Not on IMDb calendar - calendar is incomplete. IMDb ID from IMDbPro reference to tt37255755."
-2027-02-05,Remain,Warner Bros.,Y,Wide,tt35621542,Y,Y,Y,Numbers only,
-2027-02-05,The Comeback King,Universal,Y,Wide,tt36593129,Y,Y,Y,Numbers only,
-2027-02-12,In a Violent Nature 2,IFC Entertainment Group,Y,Wide,tt33042320,Y,Y,Y,Numbers only,
-2027-02-12,Narnia: The Magician's Nephew,Netflix,Y,Wide,tt9077514,Y,Y,Y,Numbers only,Netflix wide theatrical; IMAX Feb 10 as Narnia
-2027-02-12,Untitled Angel Studios Film,Angel Studios,Y,Wide,,N,Y,N,Numbers only,"Feb 12 wide per The Numbers only. No title announced, no other source found. No IMDb page."
-2027-02-12,Wishful Thinking,Sony Pictures Classics,Y,Wide,tt37599264,Y,Y,Y,Numbers only,
-2027-02-19,2027 Oscar-Nominated Shorts,Roadside Attractions,Y,Limited,,N,Y,N,Numbers only,"Feb 19 limited per The Numbers only, Roadside Attractions. Annual shorts program (Animated / Documentary / Live Action). No single IMDb title page."
-2027-02-19,Babies,Vertical Entertainment,N,Wide,tt38066489,Y,Y,Y,Numbers only,
-2027-02-19,CoComelon: The Movie,Universal,Y,Wide,tt31339071,Y,Y,Y,Numbers only,
-2027-02-19,Untitled Neon Horror Film,Neon,Y,Wide,,N,Y,N,Numbers only,Feb 19 wide per The Numbers only. No title yet; likely the SCP Foundation anthology Neon announced Oct 1 2026 for 2027 - not confirmed as this slot. No IMDb page.
-2027-02-19,Wife & Dog,Black Bear Pictures,Y,Wide,tt32359344,Y,Y,Y,Numbers only,
-2027-02-26,K-Pop: The Debut,Paramount Pictures,Y,Wide,tt8992304,Y,Y,Y,Numbers only,
-2027-02-26,Live Like That,Sony Pictures,Y,Wide,tt38593232,Y,Y,Y,Numbers only,
-2027-02-26,The Revenge of La Llorona,Warner Bros.,Y,Wide,tt37897207,Y,Y,Y,Numbers only,
-2027-03-05,Gatto,Walt Disney,Y,Wide,tt26443610,Y,Y,Y,Numbers only,
-2027-03-05,The Thomas Crown Affair,Amazon MGM Studios,Y,Wide,tt5500064,Y,Y,Y,Numbers only,
-2027-03-05,Untitled DC Event Film,Warner Bros.,Y,Wide,,N,Y,N,Numbers only,Mar 5 wide per The Numbers; also on Warner Bros. 2027 slate lists (ScreenRant). No title announced; fan speculation it is The Batman Part II is unconfirmed - do not assign. No IMDb page.
-2027-03-05,Untitled Sony Pictures Film,Sony Pictures,Y,Wide,,N,Y,N,Numbers only,Mar 5 wide per The Numbers only. No title announced. Speculation it is the Fred Astaire biopic (Tom Holland) is unconfirmed - do not assign. No IMDb page.
-2027-03-05,Wind of Change,Roadside Attractions,Y,Wide,tt37458298,N,Y,Y,Numbers only,
-2027-03-12,The Chosen Crucifixion,Amazon MGM Studios,Y,Wide,tt42833482,N,Y,Y,Numbers only,IMDb full title: The Chosen: The Crucifixion
-2027-03-12,The Exorcist: Martyrs,Universal,Y,Wide,tt32492552,Y,Y,Y,Numbers only,
-2027-03-12,Untitled Warner Bros. Event Film,Warner Bros.,Y,Wide,,N,Y,N,Numbers only,"Mar 12 wide per The Numbers only. No title announced. Note: tt10954228 is a different WB event film dated Mar 26, not this one. No IMDb page."
-2027-03-19,Fauzi,Prathyangira Cinemas,N,Wide,tt29295821,N,Y,N,Decided,"Mar 19 wide confirmed by The Numbers, BookMyShow, Bollywood Hungama, first-look poster. Moved from Dec 3 2026. Prabhas, dir. Hanu Raghavapudi. IMDb ID tt29295821 verified by opening IMDb page (Raghavapudi / Prabhas, Mar 19 2027)."
-2027-03-19,Sonic the Hedgehog 4,Paramount Pictures,Y,Wide,tt16744566,Y,Y,Y,Numbers only,
-2027-03-19,The Nightingale,Sony Pictures,Y,Wide,tt4540534,Y,Y,Y,Numbers only,
-2027-03-19,Wolf Cre3k,Cineverse,N,Wide,tt4776944,Y,Y,Y,Numbers only,
-2027-03-26,Day Drinker,Lionsgate,Y,Wide,tt18795088,Y,Y,Y,Numbers only,
-2027-03-26,Godzilla x Kong: Supernova,Warner Bros.,Y,Wide,tt32561550,Y,Y,Y,Numbers only,
-2027-03-26,Untitled Angel Studios Film,Angel Studios,Y,Wide,,N,Y,N,Numbers only,"Mar 26 wide per The Numbers only. No title announced, no other source found. No IMDb page."
-2026-11-06,Club Kid,A24,Y,Limited,tt38058097,N,Y,Y,Decided,limited Nov 6 confirmed by Wikipedia / The Numbers / A24; expands wide Nov 25 per The Numbers / Cinemark. Patreon Dec 11 is wrong. IMDb Nov 20 not corroborated.
+ReleaseDate,Title,Distributor,MajorDistributor,ReleaseType,TicketsOnSale,IMDbID,InFirstShowing,InNumbers,InIMDb,Status,Notes
+2026-11-25,All of a Sudden,Neon,Y,Limited,,tt36834996,Y,Y,Y,Decided,"Thanksgiving week. IMDb page opened and verified: Ryusuke Hamaguchi, Virginie Efira, Nov 25 2026."
+2026-11-25,Focker-in-Law,Universal,Y,Wide,,tt34966140,Y,Y,Y,Decided,"Thanksgiving week. IMDb page opened and verified: John Hamburg, Ben Stiller / Robert De Niro / Ariana Grande, Nov 25 2026."
+2026-11-25,Hershey,Angel Studios,Y,Wide,,tt17055444,Y,Y,Y,Decided,"Thanksgiving week. IMDb page opened and verified: Mark Waters, Finn Wittrock as Milton Hershey, Nov 25 2026."
+2026-11-25,Hexed,Walt Disney,Y,Wide,,tt38077943,Y,Y,Y,Decided,"Thanksgiving week. IMDb page opened and verified: Jason Hand / Fawn Veerasunthorn / Josie Trinidad, Hailee Steinfeld, Nov 25 2026."
+2026-11-25,The Further Mis-Adventures of Cliff Booth,Netflix,Y,Limited,,tt36408401,Y,Y,Y,Decided,"Thanksgiving week, IMAX-only 2-week run Nov 25; Netflix streaming Dec 23. IMDb main date is Dec 23 (streaming); IMAX Nov 25 confirmed by IMDb page note and The Numbers."
+2026-11-27,14th,Netflix,Y,Limited,,tt43682722,N,Y,Y,Decided,Thanksgiving week. IMDb page opened and verified: Ava DuVernay documentary; poster reads 'In Select Theaters November 27 - Netflix | December 4'. IMDb main date is Dec 4 (streaming).
+2026-12-04,Above the Below,Lionsgate,Y,Limited,,tt29634374,Y,Y,Y,Decided,"Dec 4 confirmed by Rotten Tomatoes, The Numbers, Lionsgate trailer. Not on IMDb calendar - calendar is incomplete, not a no-release. IMDb ID from search reference to imdb.com/title/tt29634374; not verified by opening IMDb page (IMDb text fetch fails). FirstShowing lists it bold (wide); Limited kept per Rotten Tomatoes / The Numbers / Lionsgate trailer."
+2026-12-04,Behemoth!,Searchlight Pictures,Y,Limited,,tt36415529,Y,Y,Y,Agree,Patreon lists distributor as Src
+2026-12-04,Flavia,Magenta Light Studios,N,Wide,,tt11662534,Y,Y,Y,Agree,IMDb full title: Flavia de Luce: Girl Detective
+2026-12-04,November 1963,Ketchup Entertainment,N,Wide,,tt9219630,N,Y,Y,Agree,Patreon lists as Ketch
+2026-12-04,Ray Gunn,Netflix,Y,Limited,,tt18270542,Y,Y,N,Decided,"Dec 4 limited confirmed by Wikipedia, Rotten Tomatoes, The Numbers. Streaming Dec 18 Netflix. Not on IMDb calendar - calendar is incomplete. IMDb ID from search reference to imdb.com/title/tt18270542."
+2026-12-04,Tender Loving Care,Bleecker Street,Y,Limited,,tt35638092,Y,Y,Y,Agree,
+2026-12-04,The Gallerist,Roadside Attractions,Y,Wide,,tt34382912,Y,Y,Y,Agree,
+2026-12-04,Violent Night 2,Universal,Y,Wide,,tt32432428,Y,Y,Y,Agree,
+2026-12-11,Clarissa,Neon,Y,Limited,,tt33335610,Y,Y,N,Decided,"Dec 11 limited confirmed by Wikipedia, Rotten Tomatoes, Slant, Neon. Cannes Directors' Fortnight May 16 2026. Mrs Dalloway reimagining set in Lagos; Sophie Okonedo, David Oyelowo, Ayo Edebiri. Missed in the first build - caught by the FirstShowing cross-check 2026-11-23. The Numbers lists it Dec 11 as Oscar Qualifying Run, Neon. IMDb ID tt33335610 from search reference (Chlotrudis, director/cast match); not verified by opening IMDb page."
+2026-12-11,George Michael: The Faith Tour,Bleecker Street,Y,Wide,,tt40564737,Y,Y,Y,Decided,"Dec 11 confirmed by Wikipedia, Rotten Tomatoes, Metacritic, The Numbers, Box Office Mojo, Bleecker Street press release. Wide per Numbers / Mojo / Metacritic; RT lists Limited. Not on IMDb calendar - calendar is incomplete. IMDb ID tt40564737 corroborated by Wikidata and Cinegraph."
+2026-12-11,Ink,Netflix,Y,Limited,,tt37967547,Y,Y,N,Decided,"Dec 11 limited confirmed by Wikipedia, Rotten Tomatoes, Netflix; streaming Jan 8 2027. Venice Sep 2 2026. Not on IMDb calendar - calendar is incomplete. IMDb ID tt37967547 verified by opening IMDb page (Boyle / O'Connell / Pearce, Dec 11)."
+2026-12-11,Killing Castro,Lionsgate,Y,Limited,,tt30057115,N,Y,N,Decided,"Dec 11 limited confirmed by Wikipedia, The Numbers, Lionsgate trailer; digital Dec 18. Patreon lists distributor as LGF. Not on IMDb calendar - calendar is incomplete. IMDb ID tt30057115 corroborated by synopsis (1960 Fidel Castro / Hotel Theresa)."
+2026-12-11,Rose,MUBI,Y,Limited,,tt25399154,Y,Y,N,Decided,"Dec 11 limited confirmed by Wikipedia, The Numbers, MUBI. Berlinale Feb 15 2026, Austria Apr 17, Germany Apr 30. Not on IMDb calendar - calendar is incomplete. IMDb ID tt25399154 verified by opening IMDb page (Schleinzer / Hüller, MUBI Dec 11)."
+2026-12-11,The Debut,A24,Y,Limited,,tt34718200,Y,Y,Y,Decided,Dec 11 limited confirmed by The Numbers / Metacritic / A24 trailer; wide Dec 25 ignored for now. IMDb calendar lists Dec 25 only.
+2026-12-11,Zero A.D.,Angel Studios,Y,Wide,,tt34491649,Y,Y,Y,Agree,IMDb full title: Zero A.D.: The Birth of Christ
+2026-12-18,Avengers: Doomsday,Walt Disney,Y,Wide,,tt21357150,Y,Y,Y,Agree,
+2026-12-18,Dune: Part Three,Warner Bros.,Y,Wide,,tt31378509,Y,Y,Y,Agree,
+2026-12-23,The Angry Birds Movie 3,Paramount Pictures,Y,Wide,,tt32557122,Y,Y,Y,Agree,
+2026-12-25,Artificial,Neon,Y,Limited,,tt37171180,Y,Y,Y,Decided,Dec 25 select theaters confirmed by Neon trailer / poster; wide Jan 8 2027. Both dates were right - different stages. IMDb Jan 8 is the wide date.
+2026-12-25,Coward,MUBI,Y,Limited,,tt39328391,Y,Y,Y,Agree,
+2026-12-25,Jumanji: Open World,Sony Pictures,Y,Wide,,tt26735127,Y,Y,Y,Agree,
+2026-12-25,Mr. Irrelevant,Paramount Pictures,Y,Wide,,tt30093348,Y,Y,Y,Agree,
+2026-12-25,Werwulf,Focus Features,Y,Wide,,tt35514120,Y,Y,Y,Agree,
+2026-12-30,Look Back,GKIDS,Y,Limited,,tt39094466,N,Y,Y,Decided,Dec 30 select theaters confirmed by GKIDS announcement; nationwide Jan 15 2027. Both dates were right - different stages. IMDb Jan 15 is the wide date. Patreon lists distributor as GKDS.
+2027-01-01,Pendulum,Vertical Entertainment,N,Wide,,tt34378250,Y,Y,N,Decided,"Jan 1 wide confirmed by Wikipedia, The Numbers, Vertical trailer. Patreon calendar is 2026 only. Not on IMDb calendar - calendar is incomplete. IMDb ID tt34378250 verified by opening IMDb page (Heyman / Gordon-Levitt / Dynevor); IMDb lists it as Dec 31 2026, poster says 01.01.27 - Jan 1 kept per Vertical."
+2027-01-08,Cloud Girl,Viva Pictures,N,Wide,,tt20259240,N,Y,Y,Numbers only,
+2027-01-08,The Liberation,Bleecker Street,Y,Limited,,tt8613988,Y,Y,Y,Numbers only,
+2027-01-15,Bunker,Sony Pictures Classics,Y,Wide,,tt36770512,N,Y,N,Decided,"Jan 15 nationwide confirmed by Sony Pictures Classics press release, The Numbers, People. Awards-qualifying run Dec 11 2026 NY/LA. Not on IMDb calendar - calendar is incomplete. IMDb ID tt36770512 verified by opening IMDb page (Zeller / Bardem / Cruz)."
+2027-01-15,Children of Blood and Bone,Paramount Pictures,Y,Wide,,tt6779038,Y,Y,N,Decided,"Jan 15 wide confirmed by Wikipedia, Paramount trailer, The Numbers, Metacritic. Patreon calendar is 2026 only. Not on IMDb calendar - calendar is incomplete. IMDb ID tt6779038 verified by opening IMDb page (Prince-Bythewood / Mbedu, Jan 14/15 2027)."
+2027-01-15,Fing!,Angel Studios,Y,Wide,,tt31888498,Y,Y,Y,Numbers only,
+2027-01-15,River,Universal,Y,Wide,,tt33085567,Y,Y,Y,Numbers only,
+2027-01-15,Tangles,IFC Entertainment Group,Y,Limited,,tt22183852,Y,Y,Y,Decided,"Jan 15 limited confirmed by Wikipedia, The Numbers, IFC. Oscar-qualifying run Nov 27 2026 NYC IFC Center / Dec 3 LA, regular engagement Jan 15; wide Jan 22 ignored per rule. FirstShowing lists both the Nov 27 qualifying run and Jan 15."
+2027-01-15,The Beekeeper 2,Amazon MGM Studios,Y,Wide,,tt35935357,Y,Y,Y,Numbers only,
+2027-01-22,Air Bud Returns,Cineverse,N,Wide,,tt37676881,Y,Y,Y,Numbers only,
+2027-01-22,Animal Friends,Warner Bros.,Y,Wide,,tt16911616,Y,Y,Y,Numbers only,
+2027-01-22,Lords of War,Vertical Entertainment,N,Wide,,tt27706987,Y,Y,Y,Numbers only,
+2027-01-22,The Third Parent,Bleecker Street,Y,Wide,,tt8702454,Y,Y,N,Decided,"Jan 22 wide confirmed by Wikipedia, The Numbers, Box Office Mojo. Originally Aug 7 2026. Not on IMDb calendar - calendar is incomplete. IMDb ID from IMDbPro reference to tt8702454."
+2027-01-29,Drag,Briarcliff Entertainment,Y,Wide,,tt35893068,Y,Y,Y,Numbers only,
+2027-01-29,Slayground,A24,Y,Wide,,tt37360759,N,Y,Y,Numbers only,
+2027-01-29,The Rescue,Paramount Pictures,Y,Wide,,tt35606013,Y,Y,Y,Numbers only,
+2027-01-29,Witch on the Holy Night,Sony Pictures,Y,Wide,,tt31970593,N,Y,Y,Numbers only,
+2027-02-05,Ice Age: Boiling Point,20th Century Studios,Y,Wide,,tt34512981,Y,Y,Y,Numbers only,
+2027-02-05,Karoshi,Lionsgate,Y,Wide,,tt33295857,N,Y,Y,Decided - moved to Feb 5,Originally Jan 29 per Deadline Jun 2026; moved to Feb 5 2027 per Wikipedia / Rotten Tomatoes / trailer. The Numbers Jan 29 is outdated. FirstShowing still lists Jan 29; Feb 5 kept per Wikipedia / Rotten Tomatoes / trailer.
+2027-02-05,Lice,Magenta Light Studios,N,Wide,,tt37255755,Y,Y,N,Decided,"Feb 5 wide confirmed by Wikipedia, The Numbers, Metacritic, Dread Central. Originally announced Q1 2027 only. Not on IMDb calendar - calendar is incomplete. IMDb ID from IMDbPro reference to tt37255755."
+2027-02-05,Remain,Warner Bros.,Y,Wide,,tt35621542,Y,Y,Y,Numbers only,
+2027-02-05,The Comeback King,Universal,Y,Wide,,tt36593129,Y,Y,Y,Numbers only,
+2027-02-12,In a Violent Nature 2,IFC Entertainment Group,Y,Wide,,tt33042320,Y,Y,Y,Numbers only,
+2027-02-12,Narnia: The Magician's Nephew,Netflix,Y,Wide,,tt9077514,Y,Y,Y,Numbers only,Netflix wide theatrical; IMAX Feb 10 as Narnia
+2027-02-12,Untitled Angel Studios Film,Angel Studios,Y,Wide,,,N,Y,N,Numbers only,"Feb 12 wide per The Numbers only. No title announced, no other source found. No IMDb page."
+2027-02-12,Wishful Thinking,Sony Pictures Classics,Y,Wide,,tt37599264,Y,Y,Y,Numbers only,
+2027-02-19,2027 Oscar-Nominated Shorts,Roadside Attractions,Y,Limited,,,N,Y,N,Numbers only,"Feb 19 limited per The Numbers only, Roadside Attractions. Annual shorts program (Animated / Documentary / Live Action). No single IMDb title page."
+2027-02-19,Babies,Vertical Entertainment,N,Wide,,tt38066489,Y,Y,Y,Numbers only,
+2027-02-19,CoComelon: The Movie,Universal,Y,Wide,,tt31339071,Y,Y,Y,Numbers only,
+2027-02-19,Untitled Neon Horror Film,Neon,Y,Wide,,,N,Y,N,Numbers only,Feb 19 wide per The Numbers only. No title yet; likely the SCP Foundation anthology Neon announced Oct 1 2026 for 2027 - not confirmed as this slot. No IMDb page.
+2027-02-19,Wife & Dog,Black Bear Pictures,Y,Wide,,tt32359344,Y,Y,Y,Numbers only,
+2027-02-26,K-Pop: The Debut,Paramount Pictures,Y,Wide,,tt8992304,Y,Y,Y,Numbers only,
+2027-02-26,Live Like That,Sony Pictures,Y,Wide,,tt38593232,Y,Y,Y,Numbers only,
+2027-02-26,The Revenge of La Llorona,Warner Bros.,Y,Wide,,tt37897207,Y,Y,Y,Numbers only,
+2027-03-05,Gatto,Walt Disney,Y,Wide,,tt26443610,Y,Y,Y,Numbers only,
+2027-03-05,The Thomas Crown Affair,Amazon MGM Studios,Y,Wide,,tt5500064,Y,Y,Y,Numbers only,
+2027-03-05,Untitled DC Event Film,Warner Bros.,Y,Wide,,,N,Y,N,Numbers only,Mar 5 wide per The Numbers; also on Warner Bros. 2027 slate lists (ScreenRant). No title announced; fan speculation it is The Batman Part II is unconfirmed - do not assign. No IMDb page.
+2027-03-05,Untitled Sony Pictures Film,Sony Pictures,Y,Wide,,,N,Y,N,Numbers only,Mar 5 wide per The Numbers only. No title announced. Speculation it is the Fred Astaire biopic (Tom Holland) is unconfirmed - do not assign. No IMDb page.
+2027-03-05,Wind of Change,Roadside Attractions,Y,Wide,,tt37458298,N,Y,Y,Numbers only,
+2027-03-12,The Chosen Crucifixion,Amazon MGM Studios,Y,Wide,,tt42833482,N,Y,Y,Numbers only,IMDb full title: The Chosen: The Crucifixion
+2027-03-12,The Exorcist: Martyrs,Universal,Y,Wide,,tt32492552,Y,Y,Y,Numbers only,
+2027-03-12,Untitled Warner Bros. Event Film,Warner Bros.,Y,Wide,,,N,Y,N,Numbers only,"Mar 12 wide per The Numbers only. No title announced. Note: tt10954228 is a different WB event film dated Mar 26, not this one. No IMDb page."
+2027-03-19,Fauzi,Prathyangira Cinemas,N,Wide,,tt29295821,N,Y,N,Decided,"Mar 19 wide confirmed by The Numbers, BookMyShow, Bollywood Hungama, first-look poster. Moved from Dec 3 2026. Prabhas, dir. Hanu Raghavapudi. IMDb ID tt29295821 verified by opening IMDb page (Raghavapudi / Prabhas, Mar 19 2027)."
+2027-03-19,Sonic the Hedgehog 4,Paramount Pictures,Y,Wide,,tt16744566,Y,Y,Y,Numbers only,
+2027-03-19,The Nightingale,Sony Pictures,Y,Wide,,tt4540534,Y,Y,Y,Numbers only,
+2027-03-19,Wolf Cre3k,Cineverse,N,Wide,,tt4776944,Y,Y,Y,Numbers only,
+2027-03-26,Day Drinker,Lionsgate,Y,Wide,,tt18795088,Y,Y,Y,Numbers only,
+2027-03-26,Godzilla x Kong: Supernova,Warner Bros.,Y,Wide,,tt32561550,Y,Y,Y,Numbers only,
+2027-03-26,Untitled Angel Studios Film,Angel Studios,Y,Wide,,,N,Y,N,Numbers only,"Mar 26 wide per The Numbers only. No title announced, no other source found. No IMDb page."
+2027-04-02,Play House,Focus Features,Y,Wide,,tt38492840,Y,Y,Y,Decided,Apr 2 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Nicolas Curcio; Will Harrison / Jessica Sula).
+2027-04-02,The Surgeon,Sony Pictures,Y,Wide,,tt36923931,Y,Y,Y,Decided,Apr 2 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Roshan Sethi; Michelle Yeoh / Martin Freeman).
+2027-04-02,Untitled Disney Film,Walt Disney,Y,Wide,,,N,Y,N,Numbers only,"Apr 2 wide per The Numbers only. No title announced. IMDb has a placeholder page (tt26443622) with no title, director or cast; ID left blank per untitled rule."
+2027-04-07,Varanasi,Variance Films,N,Wide,,tt21438726,Y,Y,Y,Decided,Apr 7 wide per The Numbers / FirstShowing. Distributor blank on The Numbers; US distributor is Variance Films per IMDb company credits. IMDb ID verified by opening IMDb page (S.S. Rajamouli; Mahesh Babu / Priyanka Chopra Jonas).
+2027-04-09,Boys for Life,Paramount Pictures,Y,Wide,,tt43677673,Y,Y,Y,Decided,Apr 9 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Tyler Falbo).
+2027-04-09,Panic Carefully,Warner Bros.,Y,Wide,,tt34900169,Y,Y,Y,Decided,Apr 9 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Sam Esmail; Elizabeth Olsen / Julia Roberts / Eddie Redmayne).
+2027-04-16,Monitor,Searchlight Pictures,Y,Wide,,tt34383418,Y,Y,Y,Decided,Apr 16 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Matt Black / Ryan Polly; Brittany O'Grady).
+2027-04-16,Not Alone,Universal,Y,Wide,,tt43609247,Y,Y,Y,Decided,Apr 16 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Jonathan del Val / Claire Dodgson / Eric Guillon; Timothee Chalamet / Selena Gomez).
+2027-04-23,A Place in Hell,Neon,Y,Wide,,tt36931184,Y,Y,Y,Decided,Apr 23 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Chloe Domont; Michelle Williams / Daisy Edgar-Jones).
+2027-04-23,Spaceballs: The New One,Amazon MGM Studios,Y,Wide,,tt32659463,Y,Y,Y,Decided,Apr 23 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Josh Greenbaum; Lewis Pullman / Bill Pullman / Keke Palmer). Also listed as Spaceballs 2: The Search for More Money.
+2027-04-30,One Second After,Roadside Attractions,Y,Wide,,tt16233314,N,Y,Y,Decided,Apr 30 wide per The Numbers only (not on FirstShowing). IMDb ID verified by opening IMDb page (Scott Rogers; Mary McDonnell / Famke Janssen).
+2027-04-30,The Legend of Zelda,Sony Pictures,Y,Wide,,tt29873948,Y,Y,Y,Decided,Apr 30 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Wes Ball; Benjamin Evan Ainsworth as Link / Bo Bragason as Zelda).
+2026-11-06,Club Kid,A24,Y,Limited,,tt38058097,N,Y,Y,Decided,limited Nov 6 confirmed by Wikipedia / The Numbers / A24; expands wide Nov 25 per The Numbers / Cinemark. Patreon Dec 11 is wrong. IMDb Nov 20 not corroborated.

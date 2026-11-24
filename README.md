@@ -1,8 +1,9 @@
 # Theatrical Release Calendar
 
 Rolling 3-4 month US theatrical release calendar, cross-checked across
-(window currently Nov 25, 2026–Mar 2027; Thanksgiving week added Nov 23,
-2026 — the file name still says 2026-12, but the rows start Nov 25):
+(window currently Nov 25, 2026–Apr 2027; Thanksgiving week added Nov 23,
+2026 and April added Nov 24, 2026 — the file name still says 2026-12, but
+the rows start Nov 25):
 - The Numbers release schedule (base: distributor + Wide / Limited)
 - FirstShowing.net release schedules (curated cross-check)
 - IMDb US calendar (for IMDb IDs)
@@ -22,6 +23,10 @@ Magenta Light Studios, Cineverse, Ketchup, Viva Pictures, Prathyangira).
 
 For any title where sources disagree, the date in this file is the
 adjudicated date, with the reasoning in the Notes column.
+
+`TicketsOnSale` is a YYYY-MM-DD date when a ticket-sale date is known for
+a title (from the user's Patreon ticket-sale emails, matched by title),
+blank otherwise. No ticket-sale dates are known yet.
 
 ## Files
 
