@@ -26,7 +26,13 @@ adjudicated date, with the reasoning in the Notes column.
 
 `TicketsOnSale` is a YYYY-MM-DD date when a ticket-sale date is known for
 a title (from the user's Patreon ticket-sale emails, matched by title),
-blank otherwise. No ticket-sale dates are known yet.
+blank otherwise. Known so far: Jumanji: Open World Nov 30, 2026; The Angry
+Birds Movie 3 Dec 3, 2026; The Beekeeper 2 Dec 18, 2026.
+
+`PreviewDate` is the day before `ReleaseDate` (YYYY-MM-DD) for every row —
+previews typically run the evening before a release. It is derived from the
+release date, not sourced per film, so a film with earlier fan previews or
+a different preview pattern may differ.
 
 ## Files
 

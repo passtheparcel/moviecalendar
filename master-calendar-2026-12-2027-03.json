@@ -15,6 +15,7 @@
     "MajorDistributor",
     "ReleaseType",
     "TicketsOnSale",
+    "PreviewDate",
     "IMDbID",
     "InFirstShowing",
     "InNumbers",
@@ -35,7 +36,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Thanksgiving week. IMDb page opened and verified: Ryusuke Hamaguchi, Virginie Efira, Nov 25 2026."
+      "Notes": "Thanksgiving week. IMDb page opened and verified: Ryusuke Hamaguchi, Virginie Efira, Nov 25 2026.",
+      "PreviewDate": "2026-11-24"
     },
     {
       "ReleaseDate": "2026-11-25",
@@ -49,7 +51,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Thanksgiving week. IMDb page opened and verified: John Hamburg, Ben Stiller / Robert De Niro / Ariana Grande, Nov 25 2026."
+      "Notes": "Thanksgiving week. IMDb page opened and verified: John Hamburg, Ben Stiller / Robert De Niro / Ariana Grande, Nov 25 2026.",
+      "PreviewDate": "2026-11-24"
     },
     {
       "ReleaseDate": "2026-11-25",
@@ -63,7 +66,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Thanksgiving week. IMDb page opened and verified: Mark Waters, Finn Wittrock as Milton Hershey, Nov 25 2026."
+      "Notes": "Thanksgiving week. IMDb page opened and verified: Mark Waters, Finn Wittrock as Milton Hershey, Nov 25 2026.",
+      "PreviewDate": "2026-11-24"
     },
     {
       "ReleaseDate": "2026-11-25",
@@ -77,7 +81,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Thanksgiving week. IMDb page opened and verified: Jason Hand / Fawn Veerasunthorn / Josie Trinidad, Hailee Steinfeld, Nov 25 2026."
+      "Notes": "Thanksgiving week. IMDb page opened and verified: Jason Hand / Fawn Veerasunthorn / Josie Trinidad, Hailee Steinfeld, Nov 25 2026.",
+      "PreviewDate": "2026-11-24"
     },
     {
       "ReleaseDate": "2026-11-25",
@@ -91,7 +96,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Thanksgiving week, IMAX-only 2-week run Nov 25; Netflix streaming Dec 23. IMDb main date is Dec 23 (streaming); IMAX Nov 25 confirmed by IMDb page note and The Numbers."
+      "Notes": "Thanksgiving week, IMAX-only 2-week run Nov 25; Netflix streaming Dec 23. IMDb main date is Dec 23 (streaming); IMAX Nov 25 confirmed by IMDb page note and The Numbers.",
+      "PreviewDate": "2026-11-24"
     },
     {
       "ReleaseDate": "2026-11-27",
@@ -105,7 +111,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Thanksgiving week. IMDb page opened and verified: Ava DuVernay documentary; poster reads 'In Select Theaters November 27 - Netflix | December 4'. IMDb main date is Dec 4 (streaming)."
+      "Notes": "Thanksgiving week. IMDb page opened and verified: Ava DuVernay documentary; poster reads 'In Select Theaters November 27 - Netflix | December 4'. IMDb main date is Dec 4 (streaming).",
+      "PreviewDate": "2026-11-26"
     },
     {
       "ReleaseDate": "2026-12-04",
@@ -119,7 +126,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Dec 4 confirmed by Rotten Tomatoes, The Numbers, Lionsgate trailer. Not on IMDb calendar - calendar is incomplete, not a no-release. IMDb ID from search reference to imdb.com/title/tt29634374; not verified by opening IMDb page (IMDb text fetch fails). FirstShowing lists it bold (wide); Limited kept per Rotten Tomatoes / The Numbers / Lionsgate trailer."
+      "Notes": "Dec 4 confirmed by Rotten Tomatoes, The Numbers, Lionsgate trailer. Not on IMDb calendar - calendar is incomplete, not a no-release. IMDb ID from search reference to imdb.com/title/tt29634374; not verified by opening IMDb page (IMDb text fetch fails). FirstShowing lists it bold (wide); Limited kept per Rotten Tomatoes / The Numbers / Lionsgate trailer.",
+      "PreviewDate": "2026-12-03"
     },
     {
       "ReleaseDate": "2026-12-04",
@@ -133,7 +141,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": "Patreon lists distributor as Src"
+      "Notes": "Patreon lists distributor as Src",
+      "PreviewDate": "2026-12-03"
     },
     {
       "ReleaseDate": "2026-12-04",
@@ -147,7 +156,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": "IMDb full title: Flavia de Luce: Girl Detective"
+      "Notes": "IMDb full title: Flavia de Luce: Girl Detective",
+      "PreviewDate": "2026-12-03"
     },
     {
       "ReleaseDate": "2026-12-04",
@@ -161,7 +171,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": "Patreon lists as Ketch"
+      "Notes": "Patreon lists as Ketch",
+      "PreviewDate": "2026-12-03"
     },
     {
       "ReleaseDate": "2026-12-04",
@@ -175,7 +186,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Dec 4 limited confirmed by Wikipedia, Rotten Tomatoes, The Numbers. Streaming Dec 18 Netflix. Not on IMDb calendar - calendar is incomplete. IMDb ID from search reference to imdb.com/title/tt18270542."
+      "Notes": "Dec 4 limited confirmed by Wikipedia, Rotten Tomatoes, The Numbers. Streaming Dec 18 Netflix. Not on IMDb calendar - calendar is incomplete. IMDb ID from search reference to imdb.com/title/tt18270542.",
+      "PreviewDate": "2026-12-03"
     },
     {
       "ReleaseDate": "2026-12-04",
@@ -189,7 +201,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2026-12-03"
     },
     {
       "ReleaseDate": "2026-12-04",
@@ -203,7 +216,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2026-12-03"
     },
     {
       "ReleaseDate": "2026-12-04",
@@ -217,7 +231,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2026-12-03"
     },
     {
       "ReleaseDate": "2026-12-11",
@@ -231,7 +246,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Dec 11 limited confirmed by Wikipedia, Rotten Tomatoes, Slant, Neon. Cannes Directors' Fortnight May 16 2026. Mrs Dalloway reimagining set in Lagos; Sophie Okonedo, David Oyelowo, Ayo Edebiri. Missed in the first build - caught by the FirstShowing cross-check 2026-11-23. The Numbers lists it Dec 11 as Oscar Qualifying Run, Neon. IMDb ID tt33335610 from search reference (Chlotrudis, director/cast match); not verified by opening IMDb page."
+      "Notes": "Dec 11 limited confirmed by Wikipedia, Rotten Tomatoes, Slant, Neon. Cannes Directors' Fortnight May 16 2026. Mrs Dalloway reimagining set in Lagos; Sophie Okonedo, David Oyelowo, Ayo Edebiri. Missed in the first build - caught by the FirstShowing cross-check 2026-11-23. The Numbers lists it Dec 11 as Oscar Qualifying Run, Neon. IMDb ID tt33335610 from search reference (Chlotrudis, director/cast match); not verified by opening IMDb page.",
+      "PreviewDate": "2026-12-10"
     },
     {
       "ReleaseDate": "2026-12-11",
@@ -245,7 +261,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Dec 11 confirmed by Wikipedia, Rotten Tomatoes, Metacritic, The Numbers, Box Office Mojo, Bleecker Street press release. Wide per Numbers / Mojo / Metacritic; RT lists Limited. Not on IMDb calendar - calendar is incomplete. IMDb ID tt40564737 corroborated by Wikidata and Cinegraph."
+      "Notes": "Dec 11 confirmed by Wikipedia, Rotten Tomatoes, Metacritic, The Numbers, Box Office Mojo, Bleecker Street press release. Wide per Numbers / Mojo / Metacritic; RT lists Limited. Not on IMDb calendar - calendar is incomplete. IMDb ID tt40564737 corroborated by Wikidata and Cinegraph.",
+      "PreviewDate": "2026-12-10"
     },
     {
       "ReleaseDate": "2026-12-11",
@@ -259,7 +276,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Dec 11 limited confirmed by Wikipedia, Rotten Tomatoes, Netflix; streaming Jan 8 2027. Venice Sep 2 2026. Not on IMDb calendar - calendar is incomplete. IMDb ID tt37967547 verified by opening IMDb page (Boyle / O'Connell / Pearce, Dec 11)."
+      "Notes": "Dec 11 limited confirmed by Wikipedia, Rotten Tomatoes, Netflix; streaming Jan 8 2027. Venice Sep 2 2026. Not on IMDb calendar - calendar is incomplete. IMDb ID tt37967547 verified by opening IMDb page (Boyle / O'Connell / Pearce, Dec 11).",
+      "PreviewDate": "2026-12-10"
     },
     {
       "ReleaseDate": "2026-12-11",
@@ -273,7 +291,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Dec 11 limited confirmed by Wikipedia, The Numbers, Lionsgate trailer; digital Dec 18. Patreon lists distributor as LGF. Not on IMDb calendar - calendar is incomplete. IMDb ID tt30057115 corroborated by synopsis (1960 Fidel Castro / Hotel Theresa)."
+      "Notes": "Dec 11 limited confirmed by Wikipedia, The Numbers, Lionsgate trailer; digital Dec 18. Patreon lists distributor as LGF. Not on IMDb calendar - calendar is incomplete. IMDb ID tt30057115 corroborated by synopsis (1960 Fidel Castro / Hotel Theresa).",
+      "PreviewDate": "2026-12-10"
     },
     {
       "ReleaseDate": "2026-12-11",
@@ -287,7 +306,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Dec 11 limited confirmed by Wikipedia, The Numbers, MUBI. Berlinale Feb 15 2026, Austria Apr 17, Germany Apr 30. Not on IMDb calendar - calendar is incomplete. IMDb ID tt25399154 verified by opening IMDb page (Schleinzer / Hüller, MUBI Dec 11)."
+      "Notes": "Dec 11 limited confirmed by Wikipedia, The Numbers, MUBI. Berlinale Feb 15 2026, Austria Apr 17, Germany Apr 30. Not on IMDb calendar - calendar is incomplete. IMDb ID tt25399154 verified by opening IMDb page (Schleinzer / Hüller, MUBI Dec 11).",
+      "PreviewDate": "2026-12-10"
     },
     {
       "ReleaseDate": "2026-12-11",
@@ -301,7 +321,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Dec 11 limited confirmed by The Numbers / Metacritic / A24 trailer; wide Dec 25 ignored for now. IMDb calendar lists Dec 25 only."
+      "Notes": "Dec 11 limited confirmed by The Numbers / Metacritic / A24 trailer; wide Dec 25 ignored for now. IMDb calendar lists Dec 25 only.",
+      "PreviewDate": "2026-12-10"
     },
     {
       "ReleaseDate": "2026-12-11",
@@ -315,7 +336,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": "IMDb full title: Zero A.D.: The Birth of Christ"
+      "Notes": "IMDb full title: Zero A.D.: The Birth of Christ",
+      "PreviewDate": "2026-12-10"
     },
     {
       "ReleaseDate": "2026-12-18",
@@ -329,7 +351,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2026-12-17"
     },
     {
       "ReleaseDate": "2026-12-18",
@@ -343,7 +366,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2026-12-17"
     },
     {
       "ReleaseDate": "2026-12-23",
@@ -357,7 +381,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": "Tickets on sale Dec 3, 2026 per Patreon (misterpepp) email Nov 13, 2026."
+      "Notes": "Tickets on sale Dec 3, 2026 per Patreon (misterpepp) email Nov 13, 2026.",
+      "PreviewDate": "2026-12-22"
     },
     {
       "ReleaseDate": "2026-12-25",
@@ -371,7 +396,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Dec 25 select theaters confirmed by Neon trailer / poster; wide Jan 8 2027. Both dates were right - different stages. IMDb Jan 8 is the wide date."
+      "Notes": "Dec 25 select theaters confirmed by Neon trailer / poster; wide Jan 8 2027. Both dates were right - different stages. IMDb Jan 8 is the wide date.",
+      "PreviewDate": "2026-12-24"
     },
     {
       "ReleaseDate": "2026-12-25",
@@ -385,7 +411,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2026-12-24"
     },
     {
       "ReleaseDate": "2026-12-25",
@@ -399,7 +426,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": "Tickets on sale Nov 30, 2026 per Patreon (misterpepp) email Nov 17, 2026."
+      "Notes": "Tickets on sale Nov 30, 2026 per Patreon (misterpepp) email Nov 17, 2026.",
+      "PreviewDate": "2026-12-24"
     },
     {
       "ReleaseDate": "2026-12-25",
@@ -413,7 +441,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2026-12-24"
     },
     {
       "ReleaseDate": "2026-12-25",
@@ -427,7 +456,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Agree",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2026-12-24"
     },
     {
       "ReleaseDate": "2026-12-30",
@@ -441,7 +471,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Dec 30 select theaters confirmed by GKIDS announcement; nationwide Jan 15 2027. Both dates were right - different stages. IMDb Jan 15 is the wide date. Patreon lists distributor as GKDS."
+      "Notes": "Dec 30 select theaters confirmed by GKIDS announcement; nationwide Jan 15 2027. Both dates were right - different stages. IMDb Jan 15 is the wide date. Patreon lists distributor as GKDS.",
+      "PreviewDate": "2026-12-29"
     },
     {
       "ReleaseDate": "2027-01-01",
@@ -455,7 +486,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Jan 1 wide confirmed by Wikipedia, The Numbers, Vertical trailer. Patreon calendar is 2026 only. Not on IMDb calendar - calendar is incomplete. IMDb ID tt34378250 verified by opening IMDb page (Heyman / Gordon-Levitt / Dynevor); IMDb lists it as Dec 31 2026, poster says 01.01.27 - Jan 1 kept per Vertical."
+      "Notes": "Jan 1 wide confirmed by Wikipedia, The Numbers, Vertical trailer. Patreon calendar is 2026 only. Not on IMDb calendar - calendar is incomplete. IMDb ID tt34378250 verified by opening IMDb page (Heyman / Gordon-Levitt / Dynevor); IMDb lists it as Dec 31 2026, poster says 01.01.27 - Jan 1 kept per Vertical.",
+      "PreviewDate": "2026-12-31"
     },
     {
       "ReleaseDate": "2027-01-08",
@@ -469,7 +501,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-01-07"
     },
     {
       "ReleaseDate": "2027-01-08",
@@ -483,7 +516,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-01-07"
     },
     {
       "ReleaseDate": "2027-01-15",
@@ -497,7 +531,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Jan 15 nationwide confirmed by Sony Pictures Classics press release, The Numbers, People. Awards-qualifying run Dec 11 2026 NY/LA. Not on IMDb calendar - calendar is incomplete. IMDb ID tt36770512 verified by opening IMDb page (Zeller / Bardem / Cruz)."
+      "Notes": "Jan 15 nationwide confirmed by Sony Pictures Classics press release, The Numbers, People. Awards-qualifying run Dec 11 2026 NY/LA. Not on IMDb calendar - calendar is incomplete. IMDb ID tt36770512 verified by opening IMDb page (Zeller / Bardem / Cruz).",
+      "PreviewDate": "2027-01-14"
     },
     {
       "ReleaseDate": "2027-01-15",
@@ -511,7 +546,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Jan 15 wide confirmed by Wikipedia, Paramount trailer, The Numbers, Metacritic. Patreon calendar is 2026 only. Not on IMDb calendar - calendar is incomplete. IMDb ID tt6779038 verified by opening IMDb page (Prince-Bythewood / Mbedu, Jan 14/15 2027)."
+      "Notes": "Jan 15 wide confirmed by Wikipedia, Paramount trailer, The Numbers, Metacritic. Patreon calendar is 2026 only. Not on IMDb calendar - calendar is incomplete. IMDb ID tt6779038 verified by opening IMDb page (Prince-Bythewood / Mbedu, Jan 14/15 2027).",
+      "PreviewDate": "2027-01-14"
     },
     {
       "ReleaseDate": "2027-01-15",
@@ -525,7 +561,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-01-14"
     },
     {
       "ReleaseDate": "2027-01-15",
@@ -539,7 +576,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-01-14"
     },
     {
       "ReleaseDate": "2027-01-15",
@@ -553,7 +591,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Jan 15 limited confirmed by Wikipedia, The Numbers, IFC. Oscar-qualifying run Nov 27 2026 NYC IFC Center / Dec 3 LA, regular engagement Jan 15; wide Jan 22 ignored per rule. FirstShowing lists both the Nov 27 qualifying run and Jan 15."
+      "Notes": "Jan 15 limited confirmed by Wikipedia, The Numbers, IFC. Oscar-qualifying run Nov 27 2026 NYC IFC Center / Dec 3 LA, regular engagement Jan 15; wide Jan 22 ignored per rule. FirstShowing lists both the Nov 27 qualifying run and Jan 15.",
+      "PreviewDate": "2027-01-14"
     },
     {
       "ReleaseDate": "2027-01-15",
@@ -567,7 +606,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": "Tickets on sale Dec 18, 2026 per Patreon (misterpepp) email Oct 26, 2026."
+      "Notes": "Tickets on sale Dec 18, 2026 per Patreon (misterpepp) email Oct 26, 2026.",
+      "PreviewDate": "2027-01-14"
     },
     {
       "ReleaseDate": "2027-01-22",
@@ -581,7 +621,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-01-21"
     },
     {
       "ReleaseDate": "2027-01-22",
@@ -595,7 +636,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-01-21"
     },
     {
       "ReleaseDate": "2027-01-22",
@@ -609,7 +651,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-01-21"
     },
     {
       "ReleaseDate": "2027-01-22",
@@ -623,7 +666,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Jan 22 wide confirmed by Wikipedia, The Numbers, Box Office Mojo. Originally Aug 7 2026. Not on IMDb calendar - calendar is incomplete. IMDb ID from IMDbPro reference to tt8702454."
+      "Notes": "Jan 22 wide confirmed by Wikipedia, The Numbers, Box Office Mojo. Originally Aug 7 2026. Not on IMDb calendar - calendar is incomplete. IMDb ID from IMDbPro reference to tt8702454.",
+      "PreviewDate": "2027-01-21"
     },
     {
       "ReleaseDate": "2027-01-29",
@@ -637,7 +681,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-01-28"
     },
     {
       "ReleaseDate": "2027-01-29",
@@ -651,7 +696,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-01-28"
     },
     {
       "ReleaseDate": "2027-01-29",
@@ -665,7 +711,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-01-28"
     },
     {
       "ReleaseDate": "2027-01-29",
@@ -679,7 +726,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-01-28"
     },
     {
       "ReleaseDate": "2027-02-05",
@@ -693,7 +741,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-02-04"
     },
     {
       "ReleaseDate": "2027-02-05",
@@ -707,7 +756,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided - moved to Feb 5",
-      "Notes": "Originally Jan 29 per Deadline Jun 2026; moved to Feb 5 2027 per Wikipedia / Rotten Tomatoes / trailer. The Numbers Jan 29 is outdated. FirstShowing still lists Jan 29; Feb 5 kept per Wikipedia / Rotten Tomatoes / trailer."
+      "Notes": "Originally Jan 29 per Deadline Jun 2026; moved to Feb 5 2027 per Wikipedia / Rotten Tomatoes / trailer. The Numbers Jan 29 is outdated. FirstShowing still lists Jan 29; Feb 5 kept per Wikipedia / Rotten Tomatoes / trailer.",
+      "PreviewDate": "2027-02-04"
     },
     {
       "ReleaseDate": "2027-02-05",
@@ -721,7 +771,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Feb 5 wide confirmed by Wikipedia, The Numbers, Metacritic, Dread Central. Originally announced Q1 2027 only. Not on IMDb calendar - calendar is incomplete. IMDb ID from IMDbPro reference to tt37255755."
+      "Notes": "Feb 5 wide confirmed by Wikipedia, The Numbers, Metacritic, Dread Central. Originally announced Q1 2027 only. Not on IMDb calendar - calendar is incomplete. IMDb ID from IMDbPro reference to tt37255755.",
+      "PreviewDate": "2027-02-04"
     },
     {
       "ReleaseDate": "2027-02-05",
@@ -735,7 +786,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-02-04"
     },
     {
       "ReleaseDate": "2027-02-05",
@@ -749,7 +801,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-02-04"
     },
     {
       "ReleaseDate": "2027-02-12",
@@ -763,7 +816,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-02-11"
     },
     {
       "ReleaseDate": "2027-02-12",
@@ -777,7 +831,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": "Netflix wide theatrical; IMAX Feb 10 as Narnia"
+      "Notes": "Netflix wide theatrical; IMAX Feb 10 as Narnia",
+      "PreviewDate": "2027-02-11"
     },
     {
       "ReleaseDate": "2027-02-12",
@@ -791,7 +846,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Numbers only",
-      "Notes": "Feb 12 wide per The Numbers only. No title announced, no other source found. No IMDb page."
+      "Notes": "Feb 12 wide per The Numbers only. No title announced, no other source found. No IMDb page.",
+      "PreviewDate": "2027-02-11"
     },
     {
       "ReleaseDate": "2027-02-12",
@@ -805,7 +861,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-02-11"
     },
     {
       "ReleaseDate": "2027-02-19",
@@ -819,7 +876,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Numbers only",
-      "Notes": "Feb 19 limited per The Numbers only, Roadside Attractions. Annual shorts program (Animated / Documentary / Live Action). No single IMDb title page."
+      "Notes": "Feb 19 limited per The Numbers only, Roadside Attractions. Annual shorts program (Animated / Documentary / Live Action). No single IMDb title page.",
+      "PreviewDate": "2027-02-18"
     },
     {
       "ReleaseDate": "2027-02-19",
@@ -833,7 +891,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-02-18"
     },
     {
       "ReleaseDate": "2027-02-19",
@@ -847,7 +906,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-02-18"
     },
     {
       "ReleaseDate": "2027-02-19",
@@ -861,7 +921,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Numbers only",
-      "Notes": "Feb 19 wide per The Numbers only. No title yet; likely the SCP Foundation anthology Neon announced Oct 1 2026 for 2027 - not confirmed as this slot. No IMDb page."
+      "Notes": "Feb 19 wide per The Numbers only. No title yet; likely the SCP Foundation anthology Neon announced Oct 1 2026 for 2027 - not confirmed as this slot. No IMDb page.",
+      "PreviewDate": "2027-02-18"
     },
     {
       "ReleaseDate": "2027-02-19",
@@ -875,7 +936,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-02-18"
     },
     {
       "ReleaseDate": "2027-02-26",
@@ -889,7 +951,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-02-25"
     },
     {
       "ReleaseDate": "2027-02-26",
@@ -903,7 +966,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-02-25"
     },
     {
       "ReleaseDate": "2027-02-26",
@@ -917,7 +981,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-02-25"
     },
     {
       "ReleaseDate": "2027-03-05",
@@ -931,7 +996,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-03-04"
     },
     {
       "ReleaseDate": "2027-03-05",
@@ -945,7 +1011,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-03-04"
     },
     {
       "ReleaseDate": "2027-03-05",
@@ -959,7 +1026,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Numbers only",
-      "Notes": "Mar 5 wide per The Numbers; also on Warner Bros. 2027 slate lists (ScreenRant). No title announced; fan speculation it is The Batman Part II is unconfirmed - do not assign. No IMDb page."
+      "Notes": "Mar 5 wide per The Numbers; also on Warner Bros. 2027 slate lists (ScreenRant). No title announced; fan speculation it is The Batman Part II is unconfirmed - do not assign. No IMDb page.",
+      "PreviewDate": "2027-03-04"
     },
     {
       "ReleaseDate": "2027-03-05",
@@ -973,7 +1041,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Numbers only",
-      "Notes": "Mar 5 wide per The Numbers only. No title announced. Speculation it is the Fred Astaire biopic (Tom Holland) is unconfirmed - do not assign. No IMDb page."
+      "Notes": "Mar 5 wide per The Numbers only. No title announced. Speculation it is the Fred Astaire biopic (Tom Holland) is unconfirmed - do not assign. No IMDb page.",
+      "PreviewDate": "2027-03-04"
     },
     {
       "ReleaseDate": "2027-03-05",
@@ -987,7 +1056,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-03-04"
     },
     {
       "ReleaseDate": "2027-03-12",
@@ -1001,7 +1071,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": "IMDb full title: The Chosen: The Crucifixion"
+      "Notes": "IMDb full title: The Chosen: The Crucifixion",
+      "PreviewDate": "2027-03-11"
     },
     {
       "ReleaseDate": "2027-03-12",
@@ -1015,7 +1086,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-03-11"
     },
     {
       "ReleaseDate": "2027-03-12",
@@ -1029,7 +1101,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Numbers only",
-      "Notes": "Mar 12 wide per The Numbers only. No title announced. Note: tt10954228 is a different WB event film dated Mar 26, not this one. No IMDb page."
+      "Notes": "Mar 12 wide per The Numbers only. No title announced. Note: tt10954228 is a different WB event film dated Mar 26, not this one. No IMDb page.",
+      "PreviewDate": "2027-03-11"
     },
     {
       "ReleaseDate": "2027-03-19",
@@ -1043,7 +1116,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Decided",
-      "Notes": "Mar 19 wide confirmed by The Numbers, BookMyShow, Bollywood Hungama, first-look poster. Moved from Dec 3 2026. Prabhas, dir. Hanu Raghavapudi. IMDb ID tt29295821 verified by opening IMDb page (Raghavapudi / Prabhas, Mar 19 2027)."
+      "Notes": "Mar 19 wide confirmed by The Numbers, BookMyShow, Bollywood Hungama, first-look poster. Moved from Dec 3 2026. Prabhas, dir. Hanu Raghavapudi. IMDb ID tt29295821 verified by opening IMDb page (Raghavapudi / Prabhas, Mar 19 2027).",
+      "PreviewDate": "2027-03-18"
     },
     {
       "ReleaseDate": "2027-03-19",
@@ -1057,7 +1131,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-03-18"
     },
     {
       "ReleaseDate": "2027-03-19",
@@ -1071,7 +1146,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-03-18"
     },
     {
       "ReleaseDate": "2027-03-19",
@@ -1085,7 +1161,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-03-18"
     },
     {
       "ReleaseDate": "2027-03-26",
@@ -1099,7 +1176,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-03-25"
     },
     {
       "ReleaseDate": "2027-03-26",
@@ -1113,7 +1191,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Numbers only",
-      "Notes": null
+      "Notes": null,
+      "PreviewDate": "2027-03-25"
     },
     {
       "ReleaseDate": "2027-03-26",
@@ -1127,7 +1206,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Numbers only",
-      "Notes": "Mar 26 wide per The Numbers only. No title announced, no other source found. No IMDb page."
+      "Notes": "Mar 26 wide per The Numbers only. No title announced, no other source found. No IMDb page.",
+      "PreviewDate": "2027-03-25"
     },
     {
       "ReleaseDate": "2027-04-02",
@@ -1141,7 +1221,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Apr 2 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Nicolas Curcio; Will Harrison / Jessica Sula)."
+      "Notes": "Apr 2 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Nicolas Curcio; Will Harrison / Jessica Sula).",
+      "PreviewDate": "2027-04-01"
     },
     {
       "ReleaseDate": "2027-04-02",
@@ -1155,7 +1236,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Apr 2 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Roshan Sethi; Michelle Yeoh / Martin Freeman)."
+      "Notes": "Apr 2 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Roshan Sethi; Michelle Yeoh / Martin Freeman).",
+      "PreviewDate": "2027-04-01"
     },
     {
       "ReleaseDate": "2027-04-02",
@@ -1169,7 +1251,8 @@
       "InNumbers": "Y",
       "InIMDb": "N",
       "Status": "Numbers only",
-      "Notes": "Apr 2 wide per The Numbers only. No title announced. IMDb has a placeholder page (tt26443622) with no title, director or cast; ID left blank per untitled rule."
+      "Notes": "Apr 2 wide per The Numbers only. No title announced. IMDb has a placeholder page (tt26443622) with no title, director or cast; ID left blank per untitled rule.",
+      "PreviewDate": "2027-04-01"
     },
     {
       "ReleaseDate": "2027-04-07",
@@ -1183,7 +1266,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Apr 7 wide per The Numbers / FirstShowing. Distributor blank on The Numbers; US distributor is Variance Films per IMDb company credits. IMDb ID verified by opening IMDb page (S.S. Rajamouli; Mahesh Babu / Priyanka Chopra Jonas)."
+      "Notes": "Apr 7 wide per The Numbers / FirstShowing. Distributor blank on The Numbers; US distributor is Variance Films per IMDb company credits. IMDb ID verified by opening IMDb page (S.S. Rajamouli; Mahesh Babu / Priyanka Chopra Jonas).",
+      "PreviewDate": "2027-04-06"
     },
     {
       "ReleaseDate": "2027-04-09",
@@ -1197,7 +1281,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Apr 9 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Tyler Falbo)."
+      "Notes": "Apr 9 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Tyler Falbo).",
+      "PreviewDate": "2027-04-08"
     },
     {
       "ReleaseDate": "2027-04-09",
@@ -1211,7 +1296,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Apr 9 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Sam Esmail; Elizabeth Olsen / Julia Roberts / Eddie Redmayne)."
+      "Notes": "Apr 9 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Sam Esmail; Elizabeth Olsen / Julia Roberts / Eddie Redmayne).",
+      "PreviewDate": "2027-04-08"
     },
     {
       "ReleaseDate": "2027-04-16",
@@ -1225,7 +1311,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Apr 16 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Matt Black / Ryan Polly; Brittany O'Grady)."
+      "Notes": "Apr 16 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Matt Black / Ryan Polly; Brittany O'Grady).",
+      "PreviewDate": "2027-04-15"
     },
     {
       "ReleaseDate": "2027-04-16",
@@ -1239,7 +1326,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Apr 16 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Jonathan del Val / Claire Dodgson / Eric Guillon; Timothee Chalamet / Selena Gomez)."
+      "Notes": "Apr 16 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Jonathan del Val / Claire Dodgson / Eric Guillon; Timothee Chalamet / Selena Gomez).",
+      "PreviewDate": "2027-04-15"
     },
     {
       "ReleaseDate": "2027-04-23",
@@ -1253,7 +1341,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Apr 23 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Chloe Domont; Michelle Williams / Daisy Edgar-Jones)."
+      "Notes": "Apr 23 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Chloe Domont; Michelle Williams / Daisy Edgar-Jones).",
+      "PreviewDate": "2027-04-22"
     },
     {
       "ReleaseDate": "2027-04-23",
@@ -1267,7 +1356,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Apr 23 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Josh Greenbaum; Lewis Pullman / Bill Pullman / Keke Palmer). Also listed as Spaceballs 2: The Search for More Money."
+      "Notes": "Apr 23 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Josh Greenbaum; Lewis Pullman / Bill Pullman / Keke Palmer). Also listed as Spaceballs 2: The Search for More Money.",
+      "PreviewDate": "2027-04-22"
     },
     {
       "ReleaseDate": "2027-04-30",
@@ -1281,7 +1371,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Apr 30 wide per The Numbers only (not on FirstShowing). IMDb ID verified by opening IMDb page (Scott Rogers; Mary McDonnell / Famke Janssen)."
+      "Notes": "Apr 30 wide per The Numbers only (not on FirstShowing). IMDb ID verified by opening IMDb page (Scott Rogers; Mary McDonnell / Famke Janssen).",
+      "PreviewDate": "2027-04-29"
     },
     {
       "ReleaseDate": "2027-04-30",
@@ -1295,7 +1386,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "Apr 30 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Wes Ball; Benjamin Evan Ainsworth as Link / Bo Bragason as Zelda)."
+      "Notes": "Apr 30 wide per The Numbers / FirstShowing. IMDb ID verified by opening IMDb page (Wes Ball; Benjamin Evan Ainsworth as Link / Bo Bragason as Zelda).",
+      "PreviewDate": "2027-04-29"
     },
     {
       "ReleaseDate": "2026-11-06",
@@ -1309,7 +1401,8 @@
       "InNumbers": "Y",
       "InIMDb": "Y",
       "Status": "Decided",
-      "Notes": "limited Nov 6 confirmed by Wikipedia / The Numbers / A24; expands wide Nov 25 per The Numbers / Cinemark. Patreon Dec 11 is wrong. IMDb Nov 20 not corroborated."
+      "Notes": "limited Nov 6 confirmed by Wikipedia / The Numbers / A24; expands wide Nov 25 per The Numbers / Cinemark. Patreon Dec 11 is wrong. IMDb Nov 20 not corroborated.",
+      "PreviewDate": "2026-11-05"
     }
   ]
 }
