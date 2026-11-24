@@ -34,6 +34,12 @@ previews typically run the evening before a release. It is derived from the
 release date, not sourced per film, so a film with earlier fan previews or
 a different preview pattern may differ.
 
+`TrackDates` is a comma-delimited list of YYYY-MM-DD dates to track for a
+title. For a Friday release it is Thursday (preview) + Friday (release),
+e.g. "2026-12-24, 2026-12-25". For a non-Friday release it is left blank
+until the user decides what dates to track — those titles are flagged in
+Notes as "Non-Friday release - tracking dates to be decided".
+
 ## Files
 
 - `master-calendar-2026-12-2027-03.csv` — the master list, sorted by date
